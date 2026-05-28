@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-28T01:04:52",
+  "last_updated": "2026-05-28T01:12:25",
   "html": {
     "https://web.archive.org/web/20260412161653if_/https://twitter.com/SonjaTasha26957/status/2043362730388885916": {
       "status": "done",
@@ -7847,20 +7847,20 @@
   },
   "videos": {
     "https://video.twimg.com/amplify_video/2043376200811507712/vid/avc1/720x1280/5Me-FYcdOEE53Gk_.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260412171048_twitter_com_SonjaTasha26957_status_2043376299260150087.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
+      "last_updated": "2026-05-28T01:05:13",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412171048/https://video.twimg.com/amplify_video/2043376200811507712/vid/avc1/720x1280/5Me-FYcdOEE53Gk_.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f103827b410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
     "https://video.twimg.com/tweet_video/HFwMeNEbkAAq6EZ.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260413025000_twitter_com_SonjaTasha26957_status_2043522058534174983.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
+      "last_updated": "2026-05-28T01:05:23",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413025000/https://video.twimg.com/tweet_video/HFwMeNEbkAAq6EZ.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034d96870>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -7870,72 +7870,72 @@
         "20260414201855_twitter_com_SonjaTasha26957_status_2044148415597293831.json",
         "20260414220519_twitter_com_SonjaTasha26957_status_2044175193401372763.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414201855/https://video.twimg.com/amplify_video/2044148342394077185/vid/avc1/720x1280/lqEE05LGaA2V1mI8.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034d4cd40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-05-28T01:05:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414201855/https://video.twimg.com/amplify_video/2044148342394077185/vid/avc1/720x1280/lqEE05LGaA2V1mI8.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacfa40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2044116101202882563/vid/avc1/592x1280/OyZfvKAoygZTGybx.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260415040755_twitter_com_SonjaTasha26957_status_2044266441961288014.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415040755/https://video.twimg.com/amplify_video/2044116101202882563/vid/avc1/592x1280/OyZfvKAoygZTGybx.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034d4de20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:05:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415040755/https://video.twimg.com/amplify_video/2044116101202882563/vid/avc1/592x1280/OyZfvKAoygZTGybx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacf2f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2045064794034868224/vid/avc1/720x1280/P52E_ky7zsDmKISX.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260418153810_twitter_com_SonjaTasha26957_status_2045527312712794210.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418153810/https://video.twimg.com/amplify_video/2045064794034868224/vid/avc1/720x1280/P52E_ky7zsDmKISX.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1038279a90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:05:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418153810/https://video.twimg.com/amplify_video/2045064794034868224/vid/avc1/720x1280/P52E_ky7zsDmKISX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bace990>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2045623694379438080/vid/avc1/720x1280/TK96Qr-wLj7cVGDn.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260418220126_twitter_com_SonjaTasha26957_status_2045623767309893852.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418220126/https://video.twimg.com/amplify_video/2045623694379438080/vid/avc1/720x1280/TK96Qr-wLj7cVGDn.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034d26a50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:06:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418220126/https://video.twimg.com/amplify_video/2045623694379438080/vid/avc1/720x1280/TK96Qr-wLj7cVGDn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9ba82ea0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2045763262961360896/pu/vid/avc1/720x1280/fmArYkKH1Gom15Tm.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260419080648_twitter_com_SonjaTasha26957_status_2045776112324903405.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419080648/https://video.twimg.com/ext_tw_video/2045763262961360896/pu/vid/avc1/720x1280/fmArYkKH1Gom15Tm.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034e90290>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:06:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419080648/https://video.twimg.com/ext_tw_video/2045763262961360896/pu/vid/avc1/720x1280/fmArYkKH1Gom15Tm.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacdee0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2045920003120308224/vid/avc1/720x1280/6FgMSMjJcrwtCO8u.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260419173858_twitter_com_SonjaTasha26957_status_2045920101304787104.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419173858/https://video.twimg.com/amplify_video/2045920003120308224/vid/avc1/720x1280/6FgMSMjJcrwtCO8u.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034bda450>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:06:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419173858/https://video.twimg.com/amplify_video/2045920003120308224/vid/avc1/720x1280/6FgMSMjJcrwtCO8u.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2d550>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2046101268406702080/vid/avc1/720x1280/K-huY3Wm1-JMF65I.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260420054103_twitter_com_SonjaTasha26957_status_2046101822176448972.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420054103/https://video.twimg.com/amplify_video/2046101268406702080/vid/avc1/720x1280/K-huY3Wm1-JMF65I.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1038235010>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:06:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420054103/https://video.twimg.com/amplify_video/2046101268406702080/vid/avc1/720x1280/K-huY3Wm1-JMF65I.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacd820>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2046065929428389888/pu/vid/avc1/720x1280/_5wvk0nuB3KugQsF.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260420054103_twitter_com_SonjaTasha26957_status_2046101822176448972.json"
       ],
-      "last_updated": "2026-05-28T00:11:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420054103/https://video.twimg.com/ext_tw_video/2046065929428389888/pu/vid/avc1/720x1280/_5wvk0nuB3KugQsF.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f103824ac90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:06:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420054103/https://video.twimg.com/ext_tw_video/2046065929428389888/pu/vid/avc1/720x1280/_5wvk0nuB3KugQsF.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2dc10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2047540867423166464/vid/avc1/720x1280/oqCEJg1MEOu08OyO.mp4": {
       "status": "done",
@@ -7949,25 +7949,25 @@
       "referenced_by": [
         "20260428020725_twitter_com_SonjaTasha26957_status_2048947161589744035.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428020725/https://video.twimg.com/ext_tw_video/2048945467153903616/pu/vid/avc1/720x1280/xpAuqp6cDptW8ura.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034d24860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:07:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428020725/https://video.twimg.com/ext_tw_video/2048945467153903616/pu/vid/avc1/720x1280/xpAuqp6cDptW8ura.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacf1d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2049048988364763136/vid/avc1/720x960/jtXqkQbPnTLEWO7K.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260428085220_twitter_com_SonjaTasha26957_status_2049049063304446426.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
+      "last_updated": "2026-05-28T01:07:26",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428085220/https://video.twimg.com/amplify_video/2049048988364763136/vid/avc1/720x960/jtXqkQbPnTLEWO7K.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034d4f440>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
     "https://video.twimg.com/amplify_video/2049069786949419008/vid/avc1/720x1280/jU0aZz-g5x5u1juz.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260428101508_twitter_com_SonjaTasha26957_status_2049069898962522268.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
+      "last_updated": "2026-05-28T01:07:38",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428101508/https://video.twimg.com/amplify_video/2049069786949419008/vid/avc1/720x1280/jU0aZz-g5x5u1juz.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034d96390>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -7976,18 +7976,18 @@
       "referenced_by": [
         "20260428110254_twitter_com_SonjaTasha26957_status_2049081919619633637.json"
       ],
-      "last_updated": "2026-05-28T00:11:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428110254/https://video.twimg.com/amplify_video/2049081815487729664/vid/avc1/720x1280/HoSIyI-ide7HNI1x.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034bda8d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:07:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428110254/https://video.twimg.com/amplify_video/2049081815487729664/vid/avc1/720x1280/HoSIyI-ide7HNI1x.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9baccd10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2050065849323868160/pu/vid/avc1/720x1280/YuhzF_h5D3D6CqCf.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260501043627_twitter_com_SonjaTasha26957_status_2050071831395361039.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501043627/https://video.twimg.com/ext_tw_video/2050065849323868160/pu/vid/avc1/720x1280/YuhzF_h5D3D6CqCf.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10380fb950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:07:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501043627/https://video.twimg.com/ext_tw_video/2050065849323868160/pu/vid/avc1/720x1280/YuhzF_h5D3D6CqCf.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2e450>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2050318771034951680/vid/avc1/720x1280/C4_guiBmmMTCaeJ-.mp4?tag=27": {
       "status": "failed",
@@ -7995,54 +7995,54 @@
         "20260501205807_twitter_com_SonjaTasha26957_status_2050318875351449662.json",
         "20260501211226_twitter_com_SonjaTasha26957_status_2050322479739199723.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501205807/https://video.twimg.com/amplify_video/2050318771034951680/vid/avc1/720x1280/C4_guiBmmMTCaeJ-.mp4?tag=27 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10380fbe00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-05-28T01:08:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501205807/https://video.twimg.com/amplify_video/2050318771034951680/vid/avc1/720x1280/C4_guiBmmMTCaeJ-.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacce00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2050423897326239744/pu/vid/avc1/720x1280/39Q_NoBfiW8p0Yjc.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260502072702_twitter_com_SonjaTasha26957_status_2050477144908943436.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502072702/https://video.twimg.com/ext_tw_video/2050423897326239744/pu/vid/avc1/720x1280/39Q_NoBfiW8p0Yjc.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034e91f40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:08:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502072702/https://video.twimg.com/ext_tw_video/2050423897326239744/pu/vid/avc1/720x1280/39Q_NoBfiW8p0Yjc.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2c560>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2051318163389001728/vid/avc1/720x1280/ki5g94v2PrEam0lx.mp4?tag=27": {
       "status": "failed",
       "referenced_by": [
         "20260504150920_twitter_com_SonjaTasha26957_status_2051318264740114616.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504150920/https://video.twimg.com/amplify_video/2051318163389001728/vid/avc1/720x1280/ki5g94v2PrEam0lx.mp4?tag=27 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034e604a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:08:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504150920/https://video.twimg.com/amplify_video/2051318163389001728/vid/avc1/720x1280/ki5g94v2PrEam0lx.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacfd70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2051316784045965312/pu/vid/avc1/720x1280/WvqP87cdzDavRVVD.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260504152324_twitter_com_SonjaTasha26957_status_2051321803063374085.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504152324/https://video.twimg.com/ext_tw_video/2051316784045965312/pu/vid/avc1/720x1280/WvqP87cdzDavRVVD.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10380ba210>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:08:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504152324/https://video.twimg.com/ext_tw_video/2051316784045965312/pu/vid/avc1/720x1280/WvqP87cdzDavRVVD.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2cbc0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2051353918756765696/vid/avc1/720x1280/sTb0BCyz3bXDDO8e.mp4?tag=27": {
       "status": "failed",
       "referenced_by": [
         "20260504173131_twitter_com_SonjaTasha26957_status_2051354044334289102.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504173131/https://video.twimg.com/amplify_video/2051353918756765696/vid/avc1/720x1280/sTb0BCyz3bXDDO8e.mp4?tag=27 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10380f92b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:09:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504173131/https://video.twimg.com/amplify_video/2051353918756765696/vid/avc1/720x1280/sTb0BCyz3bXDDO8e.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacf6b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2051691018366676992/vid/avc1/720x1280/1eJQsnEZDLSR7C49.mp4?tag=27": {
       "status": "failed",
       "referenced_by": [
         "20260505155057_twitter_com_SonjaTasha26957_status_2051691125937979565.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505155057/https://video.twimg.com/amplify_video/2051691018366676992/vid/avc1/720x1280/1eJQsnEZDLSR7C49.mp4?tag=27 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10380fa990>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:09:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505155057/https://video.twimg.com/amplify_video/2051691018366676992/vid/avc1/720x1280/1eJQsnEZDLSR7C49.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2f050>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2051835428387598336/vid/avc1/720x1280/xTCiMuw8J17L7RZ6.mp4": {
       "status": "done",
@@ -8056,34 +8056,34 @@
       "referenced_by": [
         "20260506030444_twitter_com_SonjaTasha26957_status_2051860689078354076.json"
       ],
-      "last_updated": "2026-05-28T00:11:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506030444/https://video.twimg.com/amplify_video/2051860616093278208/vid/avc1/720x1280/QCkbywnaCeJQNrAT.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034e90890>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:09:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506030444/https://video.twimg.com/amplify_video/2051860616093278208/vid/avc1/720x1280/QCkbywnaCeJQNrAT.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9ba82ab0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2052581001386467328/vid/avc1/720x1280/4k8m2nvd4Ib1y7rC.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260508024717_twitter_com_SonjaTasha26957_status_2052581073452941519.json"
       ],
-      "last_updated": "2026-05-28T00:11:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508024717/https://video.twimg.com/amplify_video/2052581001386467328/vid/avc1/720x1280/4k8m2nvd4Ib1y7rC.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10380a4440>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:09:36",
+      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=4)",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2054174188215427072/vid/avc1/720x1280/WOwc2sJnxwXVwDA9.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260512121802_twitter_com_SonjaTasha26957_status_2054174257467523565.json"
       ],
-      "last_updated": "2026-05-28T00:11:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512121802/https://video.twimg.com/amplify_video/2054174188215427072/vid/avc1/720x1280/WOwc2sJnxwXVwDA9.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034d4d6a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:09:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512121802/https://video.twimg.com/amplify_video/2054174188215427072/vid/avc1/720x1280/WOwc2sJnxwXVwDA9.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacc740>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2054592464288440320/vid/avc1/720x1280/sR2Y8mlnXJIIW0y9.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260513160014_twitter_com_SonjaTasha26957_status_2054592564234518599.json"
       ],
-      "last_updated": "2026-05-28T00:11:58",
+      "last_updated": "2026-05-28T01:09:54",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513160014/https://video.twimg.com/amplify_video/2054592464288440320/vid/avc1/720x1280/sR2Y8mlnXJIIW0y9.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034de8290>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8093,18 +8093,18 @@
         "20260513175206_twitter_com_SonjaTasha26957_status_2054620716390322321.json",
         "20260513175233_twitter_com_SonjaTasha26957_status_2054620830903271606.json"
       ],
-      "last_updated": "2026-05-28T00:11:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513175233/https://video.twimg.com/amplify_video/2054600697044508675/vid/avc1/720x1092/inAVmL-MIoNvCIkR.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1038264f80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-05-28T01:10:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513175206/https://video.twimg.com/amplify_video/2054600697044508675/vid/avc1/720x1092/inAVmL-MIoNvCIkR.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2d880>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2054647857513410560/vid/avc1/720x1280/v9sasCFN4gW9upOQ.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260513194018_twitter_com_SonjaTasha26957_status_2054647947556692426.json"
       ],
-      "last_updated": "2026-05-28T00:11:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513194018/https://video.twimg.com/amplify_video/2054647857513410560/vid/avc1/720x1280/v9sasCFN4gW9upOQ.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034dc24e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:10:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513194018/https://video.twimg.com/amplify_video/2054647857513410560/vid/avc1/720x1280/v9sasCFN4gW9upOQ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2f020>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2055253126366863360/vid/avc1/720x1280/_DrN6DeHFrj-QZkQ.mp4": {
       "status": "failed",
@@ -8112,88 +8112,88 @@
         "20260516013809_twitter_com_SonjaTasha26957_status_2055462777544900973.json",
         "20260516013840_twitter_com_SonjaTasha26957_status_2055462907715137839.json"
       ],
-      "last_updated": "2026-05-28T00:11:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516013809/https://video.twimg.com/amplify_video/2055253126366863360/vid/avc1/720x1280/_DrN6DeHFrj-QZkQ.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f103824a120>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-05-28T01:10:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516013809/https://video.twimg.com/amplify_video/2055253126366863360/vid/avc1/720x1280/_DrN6DeHFrj-QZkQ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9baceb10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2055506659834019840/vid/avc1/720x1280/tKsZ2pVz60SUufut.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260516043247_twitter_com_SonjaTasha26957_status_2055506723608350962.json"
       ],
-      "last_updated": "2026-05-28T00:11:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516043247/https://video.twimg.com/amplify_video/2055506659834019840/vid/avc1/720x1280/tKsZ2pVz60SUufut.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034dea570>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:10:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516043247/https://video.twimg.com/amplify_video/2055506659834019840/vid/avc1/720x1280/tKsZ2pVz60SUufut.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacfc20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2055586480706535424/vid/avc1/720x1280/8JN7PQSe2TEOoRZa.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260516095002_twitter_com_SonjaTasha26957_status_2055586564923912336.json"
       ],
-      "last_updated": "2026-05-28T00:11:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516095002/https://video.twimg.com/amplify_video/2055586480706535424/vid/avc1/720x1280/8JN7PQSe2TEOoRZa.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10382cc050>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:10:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516095002/https://video.twimg.com/amplify_video/2055586480706535424/vid/avc1/720x1280/8JN7PQSe2TEOoRZa.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bace7b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2056032699723436033/vid/avc1/1280x720/bBkN9vt-00Sxy-LM.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260517152324_twitter_com_SonjaTasha26957_status_2056032848143151323.json"
       ],
-      "last_updated": "2026-05-28T00:11:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517152324/https://video.twimg.com/amplify_video/2056032699723436033/vid/avc1/1280x720/bBkN9vt-00Sxy-LM.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1038249250>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:11:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517152324/https://video.twimg.com/amplify_video/2056032699723436033/vid/avc1/1280x720/bBkN9vt-00Sxy-LM.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2d5b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2056218636478726144/vid/avc1/720x1280/pWtrH7N1jBXqlhZ0.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260518034228_twitter_com_SonjaTasha26957_status_2056218840712036666.json"
       ],
-      "last_updated": "2026-05-28T00:11:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518034228/https://video.twimg.com/amplify_video/2056218636478726144/vid/avc1/720x1280/pWtrH7N1jBXqlhZ0.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10382494c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:11:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518034228/https://video.twimg.com/amplify_video/2056218636478726144/vid/avc1/720x1280/pWtrH7N1jBXqlhZ0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bb2ed80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2056389122961592320/vid/avc1/1280x720/Kp8fqk9IsRhtIenl.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260518162633_twitter_com_SonjaTasha26957_status_2056411125676462154.json"
       ],
-      "last_updated": "2026-05-28T00:11:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518162633/https://video.twimg.com/amplify_video/2056389122961592320/vid/avc1/1280x720/Kp8fqk9IsRhtIenl.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f10382ccd40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:11:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518162633/https://video.twimg.com/amplify_video/2056389122961592320/vid/avc1/1280x720/Kp8fqk9IsRhtIenl.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bacd700>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2057770503537098752/vid/avc1/720x1280/TslpclKbVMD3npb9.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260522102857_twitter_com_SonjaTasha26957_status_2057770682998808916.json"
       ],
-      "last_updated": "2026-05-28T00:11:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522102857/https://video.twimg.com/amplify_video/2057770503537098752/vid/avc1/720x1280/TslpclKbVMD3npb9.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f103824a5a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:11:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522102857/https://video.twimg.com/amplify_video/2057770503537098752/vid/avc1/720x1280/TslpclKbVMD3npb9.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bd0e7b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2058580768704823297/vid/avc1/720x1280/90y56YLxvesKpEij.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260524173845_twitter_com_SonjaTasha26957_status_2058603623526101053.json"
       ],
-      "last_updated": "2026-05-28T00:11:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524173845/https://video.twimg.com/amplify_video/2058580768704823297/vid/avc1/720x1280/90y56YLxvesKpEij.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1038248500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:11:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524173845/https://video.twimg.com/amplify_video/2058580768704823297/vid/avc1/720x1280/90y56YLxvesKpEij.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bace360>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2059010532565467136/vid/avc1/720x1280/EmDlvine2wU7iOvz.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260525203556_twitter_com_SonjaTasha26957_status_2059010602576834730.json"
       ],
-      "last_updated": "2026-05-28T00:11:58",
+      "last_updated": "2026-05-28T01:12:07",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525203556/https://video.twimg.com/amplify_video/2059010532565467136/vid/avc1/720x1280/EmDlvine2wU7iOvz.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034dea7b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
     "https://video.twimg.com/amplify_video/2059110118332203008/vid/avc1/640x360/nfU00ZnvaKgiDDU5.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260526031133_twitter_com_SonjaTasha26957_status_2059110160321351988.json"
       ],
-      "last_updated": "2026-05-28T00:11:55",
+      "last_updated": "2026-05-28T01:12:17",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526031133/https://video.twimg.com/amplify_video/2059110118332203008/vid/avc1/640x360/nfU00ZnvaKgiDDU5.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f103824b200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8202,9 +8202,9 @@
       "referenced_by": [
         "20260526123408_twitter_com_SonjaTasha26957_status_2059251740034375939.json"
       ],
-      "last_updated": "2026-05-28T00:12:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526123408/https://video.twimg.com/amplify_video/2059251661479309312/vid/avc1/720x1280/45AhBz9_4xKWaHik.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1034de81d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-05-28T01:12:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526123408/https://video.twimg.com/amplify_video/2059251661479309312/vid/avc1/720x1280/45AhBz9_4xKWaHik.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b9bace960>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     }
   },
   "avatars": {
@@ -12753,7 +12753,7 @@
       "last_updated": "2026-05-28T00:12:18"
     },
     "20260412171048_twitter_com_SonjaTasha26957_status_2043376299260150087.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -12763,7 +12763,7 @@
           "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-28T00:12:18"
+      "last_updated": "2026-05-28T01:05:14"
     },
     "20260412172430_twitter_com_SonjaTasha26957_status_2043379748362203299.json": {
       "status": "done",
@@ -12878,7 +12878,7 @@
       "last_updated": "2026-05-28T00:12:18"
     },
     "20260413025000_twitter_com_SonjaTasha26957_status_2043522058534174983.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -12888,7 +12888,7 @@
           "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-28T00:12:18"
+      "last_updated": "2026-05-28T01:05:23"
     },
     "20260413025755_twitter_com_SonjaTasha26957_status_2043524051243794472.json": {
       "status": "done",
@@ -17650,7 +17650,7 @@
       "last_updated": "2026-05-28T00:12:32"
     },
     "20260428085220_twitter_com_SonjaTasha26957_status_2049049063304446426.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -17660,7 +17660,7 @@
           "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-28T00:12:18"
+      "last_updated": "2026-05-28T01:07:26"
     },
     "20260428085406_twitter_com_SonjaTasha26957_status_2049049505224679813.json": {
       "status": "done",
@@ -23774,7 +23774,7 @@
       "last_updated": "2026-05-28T00:12:48"
     },
     "20260513160014_twitter_com_SonjaTasha26957_status_2054592564234518599.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -23784,7 +23784,7 @@
           "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-28T00:12:19"
+      "last_updated": "2026-05-28T01:09:54"
     },
     "20260513163119_twitter_com_SonjaTasha26957_status_2054600386686984573.json": {
       "status": "done",
@@ -26761,7 +26761,7 @@
       "last_updated": "2026-05-28T00:12:19"
     },
     "20260525203556_twitter_com_SonjaTasha26957_status_2059010602576834730.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJMTK63aUAAFaJf.jpg",
@@ -26775,7 +26775,7 @@
           "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-28T00:12:19"
+      "last_updated": "2026-05-28T01:12:07"
     },
     "20260525203821_twitter_com_SonjaTasha26957_status_2059011207861010599.json": {
       "status": "done",
@@ -26955,7 +26955,7 @@
       "last_updated": "2026-05-28T00:12:43"
     },
     "20260526031133_twitter_com_SonjaTasha26957_status_2059110160321351988.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -26965,7 +26965,7 @@
           "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-28T00:12:19"
+      "last_updated": "2026-05-28T01:12:17"
     },
     "20260526031517_twitter_com_SonjaTasha26957_status_2059111100373962975.json": {
       "status": "done",
