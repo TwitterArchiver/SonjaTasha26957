@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059335026991604220",
+    "created_at": "2026-05-27T04:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059495444527600060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784128762596204544",
+          "start": 0,
+          "username": "flybug294584"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059495444527600060",
+    "in_reply_to_user_id": "1784128762596204544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059335026991604220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flybug294584 啊砰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059335026991604220",
+        "created_at": "2026-05-27T04:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059495444527600060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784128762596204544",
+              "start": 0,
+              "username": "flybug294584"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059495444527600060",
+        "in_reply_to_user_id": "1784128762596204544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059335026991604220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flybug294584 啊砰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784128762596204544",
+        "conversation_id": "2059335026991604220",
+        "created_at": "2026-05-26T18:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059335026991604220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059335026991604220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么每次玩解离剂都会坠机 是不是玩的太频繁了 还是大脑已经坏掉了 唉 我好害怕૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 685,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1174
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T07:53:52.000Z",
+        "description": "男喘 | ～ 接定制 | 需要扩列的来",
+        "id": "1784128762596204544",
+        "name": "唯（需要扩列版）",
+        "pinned_tweet_id": "2012715351260459288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044459839443898375/7f3RZLTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 212,
+          "like_count": 768,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 242
+        },
+        "username": "flybug294584",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059534446131569065",
+    "created_at": "2026-05-27T07:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059534446131569065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uraolt/status/…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/uraolt/status/2059505906036187149",
+          "start": 56,
+          "url": "https://t.co/KSEoADo8aX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059534446131569065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059505906036187149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我把自己所有的伤口揭开给你看 你说你好心疼我 后来这些经历所不都变成你攻击我的武器 你最懂怎么刺痛我了 不是吗 https://t.co/KSEoADo8aX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059534446131569065",
+        "created_at": "2026-05-27T07:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059534446131569065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uraolt/status/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/uraolt/status/2059505906036187149",
+              "start": 56,
+              "url": "https://t.co/KSEoADo8aX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059534446131569065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059505906036187149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把自己所有的伤口揭开给你看 你说你好心疼我 后来这些经历所不都变成你攻击我的武器 你最懂怎么刺痛我了 不是吗 https://t.co/KSEoADo8aX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2059502244832415757",
+        "created_at": "2026-05-27T05:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059505906036187149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059505906036187149",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059504187210371530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人在吵架的时候会“互相揭短”，会说很难听的话。而越是了解你的人，发生争吵就越能说出伤害你的话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 687,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1189
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049537048395366400/QLpYzsuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 419,
+          "like_count": 212827,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 13639
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

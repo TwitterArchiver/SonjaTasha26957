@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059294478540951637",
+    "created_at": "2026-05-27T03:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059484343861744123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047900485324324865",
+          "start": 0,
+          "username": "naiiiiiii_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059484343861744123",
+    "in_reply_to_user_id": "2047900485324324865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059477728257315248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiiiiiii_77 哼哼我不是个男的我是个女的哼哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059294478540951637",
+        "created_at": "2026-05-27T03:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059484343861744123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047900485324324865",
+              "start": 0,
+              "username": "naiiiiiii_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059484343861744123",
+        "in_reply_to_user_id": "2047900485324324865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059477728257315248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiiiiiii_77 哼哼我不是个男的我是个女的哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047900485324324865",
+        "conversation_id": "2059294478540951637",
+        "created_at": "2026-05-27T03:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059477728257315248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059477728257315248",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059477508622577763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 啊啊啊啊懂我意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 684,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1171
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:50:10.000Z",
+        "description": "msk你别得瑟\n大号被封7天@Nana_naiiiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "Nana_naiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "2047900485324324865",
+        "name": "Naiiiiiii",
+        "pinned_tweet_id": "2057583301364453518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047901274579030016/GuOfRlAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 50,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "username": "naiiiiiii_77",
+        "verified": false
+      }
+    ]
+  }
+}
