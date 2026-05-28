@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059130310626095363",
+    "created_at": "2026-05-26T05:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059142247300657653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525486795265294337",
+          "start": 0,
+          "username": "fuyo0928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059142247300657653",
+    "in_reply_to_user_id": "1525486795265294337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059130310626095363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuyo0928 这个好吃吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059130303885778944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOAGgVaoAAmq8o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059130310626095363",
+        "created_at": "2026-05-26T05:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059142247300657653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525486795265294337",
+              "start": 0,
+              "username": "fuyo0928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059142247300657653",
+        "in_reply_to_user_id": "1525486795265294337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059130310626095363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuyo0928 这个好吃吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059130303885778944"
+          ]
+        },
+        "author_id": "1525486795265294337",
+        "conversation_id": "2059130310626095363",
+        "created_at": "2026-05-26T04:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059130310626095363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzHO3H5eBg",
+              "end": 31,
+              "expanded_url": "https://x.com/fuyo0928/status/2059130310626095363/photo/1",
+              "media_key": "3_2059130303885778944",
+              "start": 8,
+              "url": "https://t.co/ZzHO3H5eBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059130310626095363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酸奶葡萄10t https://t.co/ZzHO3H5eBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 667,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1130
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:43:04.000Z",
+        "description": "关关￤雜多垢 ￤♀￤Drugtwt￤🚪52\n🕯互关来吧来吧来吧",
+        "id": "1525486795265294337",
+        "location": "東京、雑踏、せつなの夢。",
+        "name": "关灯喵8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055291096641781761/tddYQ5CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 210,
+          "like_count": 1390,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 204
+        },
+        "username": "fuyo0928",
+        "verified": false
+      }
+    ]
+  }
+}

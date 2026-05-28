@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2049937594050568649",
+    "created_at": "2026-04-30T19:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T20:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049939181368189421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692126961446137856",
+          "start": 0,
+          "username": "mxioln852719882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049939181368189421",
+    "in_reply_to_user_id": "1692126961446137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049938899808788900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxioln852719882 抱抱宝宝…真的伤害很深 我其实觉得管他们要钱是理所当然 但是还是会收到一顿pua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2049937594050568649",
+        "created_at": "2026-04-30T19:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049939181368189421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692126961446137856",
+              "start": 0,
+              "username": "mxioln852719882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049939181368189421",
+        "in_reply_to_user_id": "1692126961446137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049938899808788900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxioln852719882 抱抱宝宝…真的伤害很深 我其实觉得管他们要钱是理所当然 但是还是会收到一顿pua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692126961446137856",
+        "conversation_id": "2049937594050568649",
+        "created_at": "2026-04-30T19:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049938899808788900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049938899808788900",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049937594050568649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 支持你喵~ 就应该找爸妈要钱~ 一半都是爸妈害的喵~ \n还当着老师的面打我喵~ 我发烧，老师给我爸打电话,他还骂我喵~  幸好他20年得肝癌走了喵~ 现在还有点生气喵~\n清明都不给他扫墓喵~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049254324233240852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 296,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 518
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:51:36.000Z",
+        "description": "高敏感人格 + 复杂性创伤后应激障碍 + 触发性抑郁症 + 有点回避型人格\n( 对别人的 咳嗽声 + 吐口水声 + 辱骂声 比较敏感 ）+ 一点点社交恐惧症\n24岁 刷到那些死去女友的录音 死亡妻回忆录 自杀者的遗言 我哭了一顿",
+        "id": "1692126961446137856",
+        "name": "莫小兰",
+        "pinned_tweet_id": "2043993341885591953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041620849644728321/i0BMHp_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 3192,
+          "like_count": 3013,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 590
+        },
+        "username": "mxioln852719882",
+        "verified": false
+      }
+    ]
+  }
+}

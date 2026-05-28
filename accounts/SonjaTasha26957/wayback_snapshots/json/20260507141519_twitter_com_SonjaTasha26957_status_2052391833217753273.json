@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2052014134838059511",
+    "created_at": "2026-05-07T14:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052391833217753273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048133294588317696",
+          "start": 0,
+          "username": "HakuRyou_BL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052391833217753273",
+    "in_reply_to_user_id": "2048133294588317696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052390049170460824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HakuRyou_BL 可以啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2052014134838059511",
+        "created_at": "2026-05-07T14:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052391833217753273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048133294588317696",
+              "start": 0,
+              "username": "HakuRyou_BL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052391833217753273",
+        "in_reply_to_user_id": "2048133294588317696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052390049170460824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HakuRyou_BL 可以啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048133294588317696",
+        "conversation_id": "2052014134838059511",
+        "created_at": "2026-05-07T14:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052390049170460824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052390049170460824",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052014134838059511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 1111，这个能不折现吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 489,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 792
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T20:13:37.000Z",
+        "description": "白如未染,淩若初更",
+        "id": "2048133294588317696",
+        "location": "太平间",
+        "name": "白淩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048135342566584320/lwXrCrok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 8,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 112
+        },
+        "username": "HakuRyou_BL",
+        "verified": true
+      }
+    ]
+  }
+}

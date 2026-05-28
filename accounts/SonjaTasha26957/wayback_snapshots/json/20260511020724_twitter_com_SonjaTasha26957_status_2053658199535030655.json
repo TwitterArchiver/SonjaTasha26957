@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2053658199535030655",
+    "created_at": "2026-05-11T02:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053658199535030655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 43,
+          "id": "1854736085068517376",
+          "start": 27,
+          "username": "RainEngine_2024"
+        },
+        {
+          "end": 64,
+          "id": "2013863981132455937",
+          "start": 53,
+          "username": "candle0099"
+        },
+        {
+          "end": 86,
+          "id": "289298525",
+          "start": 74,
+          "username": "jiandu23333"
+        },
+        {
+          "end": 95,
+          "id": "2012423737887379456",
+          "start": 87,
+          "username": "Xzz__64"
+        },
+        {
+          "end": 115,
+          "id": "2042606909086404616",
+          "start": 105,
+          "username": "CacoooOvO"
+        },
+        {
+          "end": 131,
+          "id": "2043952988557803520",
+          "start": 116,
+          "username": "tngxngxng13171"
+        },
+        {
+          "end": 140,
+          "id": "2039298306309062657",
+          "start": 132,
+          "username": "Yunofd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053658199535030655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🎉 600fo福利抽奖最终结果 🎉\n一等奖 (1名)\n@RainEngine_2024\n二等奖 (1名)\n@candle0099\n三等奖 (2名)\n@jiandu23333\n@Xzz__64\n安慰奖 (3名)\n@CacoooOvO\n@tngxngxng13171\n@Yunofd6\n出来领奖啊孩子们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2053658199535030655",
+        "created_at": "2026-05-11T02:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053658199535030655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1854736085068517376",
+              "start": 27,
+              "username": "RainEngine_2024"
+            },
+            {
+              "end": 64,
+              "id": "2013863981132455937",
+              "start": 53,
+              "username": "candle0099"
+            },
+            {
+              "end": 86,
+              "id": "289298525",
+              "start": 74,
+              "username": "jiandu23333"
+            },
+            {
+              "end": 95,
+              "id": "2012423737887379456",
+              "start": 87,
+              "username": "Xzz__64"
+            },
+            {
+              "end": 115,
+              "id": "2042606909086404616",
+              "start": 105,
+              "username": "CacoooOvO"
+            },
+            {
+              "end": 131,
+              "id": "2043952988557803520",
+              "start": 116,
+              "username": "tngxngxng13171"
+            },
+            {
+              "end": 140,
+              "id": "2039298306309062657",
+              "start": 132,
+              "username": "Yunofd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053658199535030655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎉 600fo福利抽奖最终结果 🎉\n一等奖 (1名)\n@RainEngine_2024\n二等奖 (1名)\n@candle0099\n三等奖 (2名)\n@jiandu23333\n@Xzz__64\n安慰奖 (3名)\n@CacoooOvO\n@tngxngxng13171\n@Yunofd6\n出来领奖啊孩子们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 534,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 844
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T04:02:15.000Z",
+        "description": "雨擎项目组设计总监/Dancing Line饭制作者/来自2007年/曾小米合作伙伴/目前在学习u3d引擎技术/貌似不是学生/来自广东东莞/现居广东中山/喜欢拍照记录生活/喜欢折腾各类的手机/很高兴认识大家/欢迎互fo",
+        "id": "1854736085068517376",
+        "name": "秋日葵_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053488985306198016/M7IDcy9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 128,
+          "like_count": 628,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "username": "RainEngine_2024",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T06:39:32.000Z",
+        "description": "",
+        "id": "2013863981132455937",
+        "location": "在你心里",
+        "name": "烛芯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050699347675820032/Gn0z3DuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "candle0099",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓/不回消息就是在上课",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 151,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T07:16:35.000Z",
+        "description": "生在春风中，活在药效里\nMTX🏳️‍⚧️｜无证含糖ing🍥｜HRT2024.1｜💊Oder｜INFP-T🦋｜怕疼不自残｜不键政｜摆烂高中生🏫｜喜互fo🤗",
+        "id": "2012423737887379456",
+        "location": "幻境里",
+        "name": "序章MuKe__🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047981238959722496/_ZLFlv0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 318,
+          "like_count": 2205,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 282
+        },
+        "username": "Xzz__64",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 728,
+          "like_count": 2412,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 380
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "互联网的堕天使/白骑士综合征/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念@AAAAAMTxT /❤️@ayameeii/互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "ayameeii"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "星雫瑞星",
+        "pinned_tweet_id": "2049221796327838000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 175,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 338
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T11:07:45.000Z",
+        "description": "11年｜od｜自伤｜双向｜LGBT友好\n欢迎同类互fo喵",
+        "id": "2039298306309062657",
+        "name": "yun",
+        "pinned_tweet_id": "2047057021200122299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049783838252113920/vCrsO79g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 136,
+          "like_count": 1058,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 247
+        },
+        "username": "Yunofd6",
+        "verified": false
+      }
+    ]
+  }
+}

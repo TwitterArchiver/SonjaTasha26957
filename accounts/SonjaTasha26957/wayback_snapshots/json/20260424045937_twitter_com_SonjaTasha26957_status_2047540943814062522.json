@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047540867423166464"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2047540943814062522",
+    "created_at": "2026-04-24T04:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047540943814062522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NTN7nBX3dl",
+          "end": 46,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2047540943814062522/video/1",
+          "media_key": "13_2047540867423166464",
+          "start": 23,
+          "url": "https://t.co/NTN7nBX3dl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047540943814062522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "懵逼懵逼 你们的小手手拿来我检查一下 快点的 https://t.co/NTN7nBX3dl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13767,
+        "height": 1280,
+        "media_key": "13_2047540867423166464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047540867423166464/img/OP2prFXsUzK7N_4b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047540867423166464/vid/avc1/320x568/RqV_m3HrRSWFO1bH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047540867423166464/vid/avc1/480x852/vr587atWLiETpPPL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047540867423166464/vid/avc1/720x1280/oqCEJg1MEOu08OyO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047540867423166464/pl/mtYcCXt8awDlACk_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047540867423166464"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2047540943814062522",
+        "created_at": "2026-04-24T04:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047540943814062522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTN7nBX3dl",
+              "end": 46,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2047540943814062522/video/1",
+              "media_key": "13_2047540867423166464",
+              "start": 23,
+              "url": "https://t.co/NTN7nBX3dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047540943814062522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懵逼懵逼 你们的小手手拿来我检查一下 快点的 https://t.co/NTN7nBX3dl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 171,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 323
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

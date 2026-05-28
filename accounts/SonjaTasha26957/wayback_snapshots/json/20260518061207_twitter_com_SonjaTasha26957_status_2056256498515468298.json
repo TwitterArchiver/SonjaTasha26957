@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056209202159468544"
+      ],
+      "media_source_tweet_id": [
+        "2056209215610671221"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056256498515468298",
+    "created_at": "2026-05-18T06:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056256498515468298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1996918310349557762",
+          "start": 3,
+          "username": "Guli1817513"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JsDj4mc9bn",
+          "end": 45,
+          "expanded_url": "https://x.com/Guli1817513/status/2056209215610671221/photo/1",
+          "media_key": "3_2056209202159468544",
+          "start": 22,
+          "url": "https://t.co/JsDj4mc9bn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056256498515468298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056209215610671221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guli1817513: 生日快乐 https://t.co/JsDj4mc9bn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2056209202159468544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkfYAaawAAu7gy.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056209202159468544"
+          ],
+          "media_source_tweet_id": [
+            "2056209215610671221"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056256498515468298",
+        "created_at": "2026-05-18T06:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056256498515468298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996918310349557762",
+              "start": 3,
+              "username": "Guli1817513"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsDj4mc9bn",
+              "end": 45,
+              "expanded_url": "https://x.com/Guli1817513/status/2056209215610671221/photo/1",
+              "media_key": "3_2056209202159468544",
+              "start": 22,
+              "url": "https://t.co/JsDj4mc9bn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056256498515468298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056209215610671221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guli1817513: 生日快乐 https://t.co/JsDj4mc9bn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056209202159468544"
+          ]
+        },
+        "author_id": "1996918310349557762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056209215610671221",
+        "created_at": "2026-05-18T03:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056209215610671221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsDj4mc9bn",
+              "end": 28,
+              "expanded_url": "https://x.com/Guli1817513/status/2056209215610671221/photo/1",
+              "media_key": "3_2056209202159468544",
+              "start": 5,
+              "url": "https://t.co/JsDj4mc9bn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056209215610671221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1963,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐 https://t.co/JsDj4mc9bn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2054222035153518899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 585,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 975
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "我爱发啥发啥，我爱说啥说啥，不喜欢屏蔽。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guli33050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guli33050",
+                "start": 0,
+                "url": "https://t.co/vFNHmjljcQ"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "0.1km",
+        "name": "Guli",
+        "pinned_tweet_id": "2056042949872607312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048409926104690688/tMrozmW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 87,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 542,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/vFNHmjljcQ",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059145431180013794",
+    "created_at": "2026-05-26T05:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059145431180013794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1909862686994874368",
+          "start": 3,
+          "username": "lzyn172441"
+        },
+        {
+          "end": 25,
+          "id": "2012631283898187776",
+          "start": 16,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059145431180013794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059096057053839467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lzyn172441: @youy1qwq 你这个傻逼再到处发这种无脑弱智帖子我就给你老冯子虚空横斩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059145431180013794",
+        "created_at": "2026-05-26T05:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059145431180013794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909862686994874368",
+              "start": 3,
+              "username": "lzyn172441"
+            },
+            {
+              "end": 25,
+              "id": "2012631283898187776",
+              "start": 16,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059145431180013794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059096057053839467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lzyn172441: @youy1qwq 你这个傻逼再到处发这种无脑弱智帖子我就给你老冯子虚空横斩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909862686994874368",
+        "conversation_id": "2059077054239490108",
+        "created_at": "2026-05-26T02:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059096057053839467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059096057053839467",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 65574,
+          "like_count": 1852,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059077054239490108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 你这个傻逼再到处发这种无脑弱智帖子我就给你老冯子虚空横斩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 668,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1137
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T06:55:30.000Z",
+        "description": "这个人很懒，没有留下简介…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yeshayun.com/#/register&cod…",
+                "end": 23,
+                "expanded_url": "https://yeshayun.com/#/register&code=ZHyg3Wqm",
+                "start": 0,
+                "url": "https://t.co/UNWo9wg9fB"
+              }
+            ]
+          }
+        },
+        "id": "1909862686994874368",
+        "name": "楚歌",
+        "pinned_tweet_id": "2058511990692446489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976209626816233472/eYLcMlER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 21,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/UNWo9wg9fB",
+        "username": "lzyn172441",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13631,
+          "following_count": 1929,
+          "like_count": 4280,
+          "listed_count": 22,
+          "media_count": 1862,
+          "tweet_count": 2421
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2043218732542304322",
+    "created_at": "2026-04-12T19:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043411607200669763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730458100703064064",
+          "start": 0,
+          "username": "AngffaBang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043411607200669763",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043218732542304322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngffaBang 寶寶你很漂亮啊 不要走好不好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2043218717564375041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr4mSLakAEWCCN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2043218717572739073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr4mSNaMAENwm1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2043218732542304322",
+        "created_at": "2026-04-12T19:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043411607200669763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043411607200669763",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043218732542304322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 寶寶你很漂亮啊 不要走好不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043218717564375041",
+            "3_2043218717572739073"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2043218732542304322",
+        "created_at": "2026-04-12T06:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043218732542304322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1UxUCvZ2m",
+              "end": 40,
+              "expanded_url": "https://x.com/AngffaBang/status/2043218732542304322/photo/1",
+              "media_key": "3_2043218717564375041",
+              "start": 17,
+              "url": "https://t.co/U1UxUCvZ2m"
+            },
+            {
+              "display_url": "pic.x.com/U1UxUCvZ2m",
+              "end": 40,
+              "expanded_url": "https://x.com/AngffaBang/status/2043218732542304322/photo/1",
+              "media_key": "3_2043218717572739073",
+              "start": 17,
+              "url": "https://t.co/U1UxUCvZ2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043218732542304322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1105,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐在窗台上，幻想着跳下去会怎么样 https://t.co/U1UxUCvZ2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害",
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7393,
+          "following_count": 597,
+          "like_count": 6366,
+          "listed_count": 7,
+          "media_count": 496,
+          "tweet_count": 2841
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

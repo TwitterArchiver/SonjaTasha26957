@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2049085456734982144",
+    "created_at": "2026-04-28T14:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049136304236253587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041360911936720896",
+          "start": 0,
+          "username": "teacherYing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049136304236253587",
+    "in_reply_to_user_id": "2041360911936720896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049085456734982144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teacherYing_ 我都写完了 前几天就写完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2049085456734982144",
+        "created_at": "2026-04-28T14:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049136304236253587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041360911936720896",
+              "start": 0,
+              "username": "teacherYing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049136304236253587",
+        "in_reply_to_user_id": "2041360911936720896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049085456734982144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacherYing_ 我都写完了 前几天就写完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041360911936720896",
+        "conversation_id": "2049085456734982144",
+        "created_at": "2026-04-28T11:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049085456734982144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049085456734982144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我至今不自杀是因为我懒得写遗书 但是没有遗书我真的感觉对不起所有人 没给他们一个交代的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2047543790026813763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 211,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 436
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T03:43:08.000Z",
+        "description": "queer🏳️‍🌈/泛性恋/学音乐制作的毒虫大学生/重度玉米焦虑症/拉康派精神分析爱好者/药物交流/bilibili同名时不时直播打打游戏/都可互fo",
+        "id": "2041360911936720896",
+        "location": "天堂",
+        "name": "迷人的应老师",
+        "pinned_tweet_id": "2048540327309676851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041361579682480129/YnCHJwWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 111
+        },
+        "username": "teacherYing_",
+        "verified": false
+      }
+    ]
+  }
+}

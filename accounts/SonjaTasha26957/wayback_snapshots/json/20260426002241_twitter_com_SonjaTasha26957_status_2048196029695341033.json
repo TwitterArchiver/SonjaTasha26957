@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2048111940292260042",
+    "created_at": "2026-04-26T00:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048196029695341033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1694776269655969792",
+          "start": 0,
+          "username": "lorenrp45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048196029695341033",
+    "in_reply_to_user_id": "1694776269655969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048111940292260042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lorenrp45 😨😨😨啊啊啊啊宝宝还好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048111932855787520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxa85oboAAl0d6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2048111940292260042",
+        "created_at": "2026-04-26T00:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048196029695341033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1694776269655969792",
+              "start": 0,
+              "username": "lorenrp45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048196029695341033",
+        "in_reply_to_user_id": "1694776269655969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048111940292260042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lorenrp45 😨😨😨啊啊啊啊宝宝还好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048111932855787520"
+          ]
+        },
+        "author_id": "1694776269655969792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048111940292260042",
+        "created_at": "2026-04-25T18:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048111940292260042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76HAQffvni",
+              "end": 52,
+              "expanded_url": "https://x.com/lorenrp45/status/2048111940292260042/photo/1",
+              "media_key": "3_2048111932855787520",
+              "start": 29,
+              "url": "https://t.co/76HAQffvni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048111940292260042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得我的人生很糟糕 我希望大家过得好 我先走一步了 https://t.co/76HAQffvni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2047543790026813763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 182,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 371
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T18:19:00.000Z",
+        "description": "🚪妹 验证20/魔爪重度依赖/欢迎of\n行为情绪障碍",
+        "id": "1694776269655969792",
+        "name": "loren2世",
+        "pinned_tweet_id": "2040344637106528712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353034834116608/hMm1HJGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 61,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 101
+        },
+        "username": "lorenrp45",
+        "verified": false
+      }
+    ]
+  }
+}

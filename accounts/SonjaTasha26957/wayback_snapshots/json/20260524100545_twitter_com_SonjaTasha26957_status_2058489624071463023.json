@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058486226072768512",
+        "3_2058486223023546368",
+        "3_2058486223908536320",
+        "3_2058486223786942464"
+      ],
+      "media_source_tweet_id": [
+        "2058486229860294990",
+        "2058486229860294990",
+        "2058486229860294990",
+        "2058486229860294990"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2058489624071463023",
+    "created_at": "2026-05-24T10:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058489624071463023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058484419581870080",
+          "start": 3,
+          "username": "12S1dsb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jLkhIQasSG",
+          "end": 60,
+          "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+          "media_key": "3_2058486226072768512",
+          "start": 37,
+          "url": "https://t.co/jLkhIQasSG"
+        },
+        {
+          "display_url": "pic.x.com/jLkhIQasSG",
+          "end": 60,
+          "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+          "media_key": "3_2058486223023546368",
+          "start": 37,
+          "url": "https://t.co/jLkhIQasSG"
+        },
+        {
+          "display_url": "pic.x.com/jLkhIQasSG",
+          "end": 60,
+          "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+          "media_key": "3_2058486223908536320",
+          "start": 37,
+          "url": "https://t.co/jLkhIQasSG"
+        },
+        {
+          "display_url": "pic.x.com/jLkhIQasSG",
+          "end": 60,
+          "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+          "media_key": "3_2058486223786942464",
+          "start": 37,
+          "url": "https://t.co/jLkhIQasSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058489624071463023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058486229860294990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @12S1dsb: 又被捂嘴了 所以我决定在这里发布今天的抽烟任务 https://t.co/jLkhIQasSG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058486226072768512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE2UPgaEAAnXYB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058486223023546368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE2UEJaoAArMSq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058486223908536320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE2UHcagAAcUGI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058486223786942464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE2UG_bIAAY_YV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058486226072768512",
+            "3_2058486223023546368",
+            "3_2058486223908536320",
+            "3_2058486223786942464"
+          ],
+          "media_source_tweet_id": [
+            "2058486229860294990",
+            "2058486229860294990",
+            "2058486229860294990",
+            "2058486229860294990"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2058489624071463023",
+        "created_at": "2026-05-24T10:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058489624071463023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058484419581870080",
+              "start": 3,
+              "username": "12S1dsb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLkhIQasSG",
+              "end": 60,
+              "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+              "media_key": "3_2058486226072768512",
+              "start": 37,
+              "url": "https://t.co/jLkhIQasSG"
+            },
+            {
+              "display_url": "pic.x.com/jLkhIQasSG",
+              "end": 60,
+              "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+              "media_key": "3_2058486223023546368",
+              "start": 37,
+              "url": "https://t.co/jLkhIQasSG"
+            },
+            {
+              "display_url": "pic.x.com/jLkhIQasSG",
+              "end": 60,
+              "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+              "media_key": "3_2058486223908536320",
+              "start": 37,
+              "url": "https://t.co/jLkhIQasSG"
+            },
+            {
+              "display_url": "pic.x.com/jLkhIQasSG",
+              "end": 60,
+              "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+              "media_key": "3_2058486223786942464",
+              "start": 37,
+              "url": "https://t.co/jLkhIQasSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058489624071463023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058486229860294990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @12S1dsb: 又被捂嘴了 所以我决定在这里发布今天的抽烟任务 https://t.co/jLkhIQasSG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058486226072768512",
+            "3_2058486223023546368",
+            "3_2058486223908536320",
+            "3_2058486223786942464"
+          ]
+        },
+        "author_id": "2058484419581870080",
+        "conversation_id": "2058486229860294990",
+        "created_at": "2026-05-24T09:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058486229860294990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLkhIQasSG",
+              "end": 47,
+              "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+              "media_key": "3_2058486226072768512",
+              "start": 24,
+              "url": "https://t.co/jLkhIQasSG"
+            },
+            {
+              "display_url": "pic.x.com/jLkhIQasSG",
+              "end": 47,
+              "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+              "media_key": "3_2058486223023546368",
+              "start": 24,
+              "url": "https://t.co/jLkhIQasSG"
+            },
+            {
+              "display_url": "pic.x.com/jLkhIQasSG",
+              "end": 47,
+              "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+              "media_key": "3_2058486223908536320",
+              "start": 24,
+              "url": "https://t.co/jLkhIQasSG"
+            },
+            {
+              "display_url": "pic.x.com/jLkhIQasSG",
+              "end": 47,
+              "expanded_url": "https://x.com/hywywhhywwyh/status/2058486229860294990/photo/1",
+              "media_key": "3_2058486223786942464",
+              "start": 24,
+              "url": "https://t.co/jLkhIQasSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058486229860294990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "又被捂嘴了 所以我决定在这里发布今天的抽烟任务 https://t.co/jLkhIQasSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2054222035153518899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 604,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1048
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "12",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

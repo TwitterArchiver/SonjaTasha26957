@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2045664100794126411",
+    "created_at": "2026-04-19T08:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045779913664532721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1758468119885148160",
+          "start": 0,
+          "username": "YShou92688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045779913664532721",
+    "in_reply_to_user_id": "1758468119885148160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045778018359291980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YShou92688 真一呜呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2045664100794126411",
+        "created_at": "2026-04-19T08:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045779913664532721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758468119885148160",
+              "start": 0,
+              "username": "YShou92688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045779913664532721",
+        "in_reply_to_user_id": "1758468119885148160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045778018359291980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YShou92688 真一呜呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758468119885148160",
+        "conversation_id": "2045664100794126411",
+        "created_at": "2026-04-19T08:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045778018359291980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045778018359291980",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045664100794126411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 你咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 140,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 189
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T12:27:34.000Z",
+        "description": "靠近我",
+        "id": "1758468119885148160",
+        "location": "北京朝阳",
+        "name": "冈崎真一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044359683453157376/Icga2ByT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 64,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 184
+        },
+        "username": "YShou92688",
+        "verified": false
+      }
+    ]
+  }
+}

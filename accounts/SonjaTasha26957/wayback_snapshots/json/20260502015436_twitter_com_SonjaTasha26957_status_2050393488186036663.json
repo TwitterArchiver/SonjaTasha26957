@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050393477402497024",
+        "3_2050393477389881344"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050393488186036663",
+    "created_at": "2026-05-02T01:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T02:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050393488186036663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993614982165176320",
+          "start": 1,
+          "username": "RingLingYan"
+        },
+        {
+          "end": 25,
+          "id": "2042606909086404616",
+          "start": 15,
+          "username": "CacoooOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/53XIHLVEEj",
+          "end": 97,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2050393488186036663/photo/1",
+          "media_key": "3_2050393477402497024",
+          "start": 74,
+          "url": "https://t.co/53XIHLVEEj"
+        },
+        {
+          "display_url": "pic.x.com/53XIHLVEEj",
+          "end": 97,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2050393488186036663/photo/1",
+          "media_key": "3_2050393477389881344",
+          "start": 74,
+          "url": "https://t.co/53XIHLVEEj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050393488186036663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和@RingLingYan还有@CacoooOvO 还有一名我没有办法说的很好的人 我们三个来给你买点东西烧 希望你在那边有钱花  我们都好想你… https://t.co/53XIHLVEEj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2050393477402497024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR2ARZakAA5ciy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2050393477389881344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR2ARWaEAArXA8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050393477402497024",
+            "3_2050393477389881344"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050393488186036663",
+        "created_at": "2026-05-02T01:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050393488186036663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993614982165176320",
+              "start": 1,
+              "username": "RingLingYan"
+            },
+            {
+              "end": 25,
+              "id": "2042606909086404616",
+              "start": 15,
+              "username": "CacoooOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/53XIHLVEEj",
+              "end": 97,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2050393488186036663/photo/1",
+              "media_key": "3_2050393477402497024",
+              "start": 74,
+              "url": "https://t.co/53XIHLVEEj"
+            },
+            {
+              "display_url": "pic.x.com/53XIHLVEEj",
+              "end": 97,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2050393488186036663/photo/1",
+              "media_key": "3_2050393477389881344",
+              "start": 74,
+              "url": "https://t.co/53XIHLVEEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050393488186036663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@RingLingYan还有@CacoooOvO 还有一名我没有办法说的很好的人 我们三个来给你买点东西烧 希望你在那边有钱花  我们都好想你… https://t.co/53XIHLVEEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 324,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 564
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T09:37:22.000Z",
+        "description": "04女大，顺女👍🏻，158/52，向往有很多很多朋友，欢迎扩列和骚扰🥰（发的图不一定是本人但一定是经过授权的🤤）",
+        "id": "1993614982165176320",
+        "location": "距离你520m❤️",
+        "name": "蓝井抚子",
+        "pinned_tweet_id": "2050150336715989474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048796103731265536/OZyM33oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 516,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 263
+        },
+        "username": "RingLingYan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 657,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 303
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

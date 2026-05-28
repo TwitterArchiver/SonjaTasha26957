@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2045974713927963090",
+    "created_at": "2026-04-19T21:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T22:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045974713927963090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004802306873982977",
+          "start": 3,
+          "username": "Len10x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045974713927963090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045938056566616191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Len10x0: 互互oder 餐券 日系 跨 列表给我转转喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2045974713927963090",
+        "created_at": "2026-04-19T21:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045974713927963090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004802306873982977",
+              "start": 3,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045974713927963090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045938056566616191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Len10x0: 互互oder 餐券 日系 跨 列表给我转转喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004802306873982977",
+        "conversation_id": "2045938056566616191",
+        "created_at": "2026-04-19T18:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045938056566616191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045938056566616191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "互互oder 餐券 日系 跨 列表给我转转喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 154,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 212
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "碎碎念@Leng7oxo慢慢回【互fo只回同类/跨性 】一条活着网络的米虫｜高强度上网｜双相｜泛性恋｜11.8.7｜od｜日系｜自伤｜负能｜同类互fo 私信都会看的！很期待你们找我聊天…！匿名：https://t.co/jlxnXZMrxy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Leng7oxo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/haomaomao",
+                "end": 120,
+                "expanded_url": "https://ngl.link/haomaomao",
+                "start": 97,
+                "url": "https://t.co/jlxnXZMrxy"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "20/25/52🚪",
+        "name": "冷幻觉（恶俗版",
+        "pinned_tweet_id": "2037109529788436642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020745173807026176/0nQdCQ8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 171,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1388
+        },
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

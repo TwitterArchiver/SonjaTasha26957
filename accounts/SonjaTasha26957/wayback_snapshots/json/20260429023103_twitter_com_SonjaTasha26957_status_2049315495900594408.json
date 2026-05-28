@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2049246593556336674",
+    "created_at": "2026-04-29T02:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049315495900594408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047614425012776961",
+          "start": 0,
+          "username": "Melody_0v0_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049315495900594408",
+    "in_reply_to_user_id": "2047614425012776961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049313053968302477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melody_0v0_ 抱抱 好难受…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2049246593556336674",
+        "created_at": "2026-04-29T02:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049315495900594408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047614425012776961",
+              "start": 0,
+              "username": "Melody_0v0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049315495900594408",
+        "in_reply_to_user_id": "2047614425012776961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049313053968302477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melody_0v0_ 抱抱 好难受…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047614425012776961",
+        "conversation_id": "2049246593556336674",
+        "created_at": "2026-04-29T02:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049313053968302477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049313053968302477",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049246593556336674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 国内警察依旧到处甩锅……抱抱老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049254324233240852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 234,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 481
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T09:51:52.000Z",
+        "description": "重郁重焦-顺女-sh-退役oder-地雷系-年龄你猜-\n大家可以叫我小黛🥰-欢迎互动",
+        "id": "2047614425012776961",
+        "location": "医院药房",
+        "name": "痛み♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047619292150239232/cnGphgyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "username": "Melody_0v0_",
+        "verified": false
+      }
+    ]
+  }
+}

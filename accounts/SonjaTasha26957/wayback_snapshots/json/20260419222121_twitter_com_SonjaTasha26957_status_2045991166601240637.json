@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2045991166601240637",
+    "created_at": "2026-04-19T22:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T23:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045991166601240637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045991166601240637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045739779380441172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 沉浸在磕药里其实是会上瘾的。\n磕药的行为赋予人的一种拒绝被评价的特权。我都这么异常了，你凭什么还要求我呢？ \n这是一种你不磕药时不曾拥有的特权。\n所以会重复磕药，在不知不觉中甚至爱上了这种行为。 \n换句话说，有没有一种可能，你觉得磕药是一种自伤…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2045991166601240637",
+        "created_at": "2026-04-19T22:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T23:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045991166601240637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045991166601240637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045739779380441172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 沉浸在磕药里其实是会上瘾的。\n磕药的行为赋予人的一种拒绝被评价的特权。我都这么异常了，你凭什么还要求我呢？ \n这是一种你不磕药时不曾拥有的特权。\n所以会重复磕药，在不知不觉中甚至爱上了这种行为。 \n换句话说，有没有一种可能，你觉得磕药是一种自伤…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2045739779380441172",
+        "created_at": "2026-04-19T05:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045739779380441172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aberyoheiskm/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/aberyoheiskm/status/2045512897523298742",
+              "start": 143,
+              "url": "https://t.co/BO54TCPURA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045739779380441172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 449,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045512897523298742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沉浸在磕药里其实是会上瘾的。\n磕药的行为赋予人的一种拒绝被评价的特权。我都这么异常了，你凭什么还要求我呢？ \n这是一种你不磕药时不曾拥有的特权。\n所以会重复磕药，在不知不觉中甚至爱上了这种行为。 \n换句话说，有没有一种可能，你觉得磕药是一种自伤的时候，\n你的大脑其实是在享受这种行为？ https://t.co/BO54TCPURA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 154,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 224
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 859,
+          "like_count": 1268,
+          "listed_count": 2,
+          "media_count": 1100,
+          "tweet_count": 3136
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

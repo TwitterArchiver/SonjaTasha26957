@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050465757025456128"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050407970115301503",
+    "created_at": "2026-05-02T06:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050465787950018878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TBQ9qMSjqn",
+          "end": 27,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2050465787950018878/photo/1",
+          "media_key": "3_2050465757025456128",
+          "start": 4,
+          "url": "https://t.co/TBQ9qMSjqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050465787950018878",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050407970115301503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全部的 https://t.co/TBQ9qMSjqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050465757025456128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHS3vf-a0AAy70k.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050407957582725120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSDLIRaQAALWsr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050465757025456128"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050407970115301503",
+        "created_at": "2026-05-02T06:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050465787950018878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBQ9qMSjqn",
+              "end": 27,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2050465787950018878/photo/1",
+              "media_key": "3_2050465757025456128",
+              "start": 4,
+              "url": "https://t.co/TBQ9qMSjqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050465787950018878",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050407970115301503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全部的 https://t.co/TBQ9qMSjqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050407957582725120"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2050407970115301503",
+        "created_at": "2026-05-02T02:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050407970115301503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPaqcmPVOL",
+              "end": 48,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2050407970115301503/photo/1",
+              "media_key": "3_2050407957582725120",
+              "start": 25,
+              "url": "https://t.co/WPaqcmPVOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050407970115301503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1065,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "烧完了 晚安宝宝 晚安小z 晚安我好想你我好想你 https://t.co/WPaqcmPVOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 332,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 573
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

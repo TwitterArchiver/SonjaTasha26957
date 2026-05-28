@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2054232435618103450",
+    "created_at": "2026-05-13T02:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054386759988130057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684232422781747207",
+          "start": 0,
+          "username": "Chuziha38126578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054386759988130057",
+    "in_reply_to_user_id": "1684232422781747207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054232435618103450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuziha38126578 我也是 我想去整容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2054232435618103450",
+        "created_at": "2026-05-13T02:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054386759988130057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684232422781747207",
+              "start": 0,
+              "username": "Chuziha38126578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054386759988130057",
+        "in_reply_to_user_id": "1684232422781747207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054232435618103450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuziha38126578 我也是 我想去整容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684232422781747207",
+        "conversation_id": "2054232435618103450",
+        "created_at": "2026-05-12T16:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054232435618103450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054232435618103450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想漂漂亮亮的啊，走进商场随便一扫都是穿搭精致漂亮帅气的人，我走在旁边都不敢抬头，好看还高，两样没一样是我拥有的，自信大方也是。\n我好嫉妒好羡慕，为什么我不是这样的，没有漂亮的脸蛋也没有聪明的头脑，好恨。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2054222035153518899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 554,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 887
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T16:01:59.000Z",
+        "description": "交友请私信｜喜欢我的唯一标准就是打钱",
+        "id": "1684232422781747207",
+        "location": "0.1km",
+        "name": "稳稳的幸福",
+        "pinned_tweet_id": "1930923177091428617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011421652081336320/Jko5-Ly5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 176,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1181
+        },
+        "username": "Chuziha38126578",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044953603824316416",
+        "3_2044953603803402240",
+        "3_2044953603807535104"
+      ],
+      "media_source_tweet_id": [
+        "2044953614591115710",
+        "2044953614591115710",
+        "2044953614591115710"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059249039846334669",
+    "created_at": "2026-05-26T12:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059249039846334669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043915964559835136",
+          "start": 3,
+          "username": "rain_kawaiiii1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jdOI4qBIjd",
+          "end": 115,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+          "media_key": "3_2044953603824316416",
+          "start": 92,
+          "url": "https://t.co/jdOI4qBIjd"
+        },
+        {
+          "display_url": "pic.x.com/jdOI4qBIjd",
+          "end": 115,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+          "media_key": "3_2044953603803402240",
+          "start": 92,
+          "url": "https://t.co/jdOI4qBIjd"
+        },
+        {
+          "display_url": "pic.x.com/jdOI4qBIjd",
+          "end": 115,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+          "media_key": "3_2044953603807535104",
+          "start": 92,
+          "url": "https://t.co/jdOI4qBIjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059249039846334669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044953614591115710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rain_kawaiiii1: -自介-\n🖤叫我潼/小潼就好\n🖤本账号内涵碎碎念/日常/负能/自伤\n🖤除互关外不扩列｜这里没有你想看的｜欢迎同类互fo🔪💊🩸\n🖤愿大家都能幸福 https://t.co/jdOI4qBIjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044953603824316416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEid9IacAA5yjb.jpg",
+        "width": 724
+      },
+      {
+        "height": 640,
+        "media_key": "3_2044953603803402240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEid9DbUAAqlig.jpg",
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044953603807535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEid9EaYAAskCI.jpg",
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044953603824316416",
+            "3_2044953603803402240",
+            "3_2044953603807535104"
+          ],
+          "media_source_tweet_id": [
+            "2044953614591115710",
+            "2044953614591115710",
+            "2044953614591115710"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059249039846334669",
+        "created_at": "2026-05-26T12:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059249039846334669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043915964559835136",
+              "start": 3,
+              "username": "rain_kawaiiii1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdOI4qBIjd",
+              "end": 115,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+              "media_key": "3_2044953603824316416",
+              "start": 92,
+              "url": "https://t.co/jdOI4qBIjd"
+            },
+            {
+              "display_url": "pic.x.com/jdOI4qBIjd",
+              "end": 115,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+              "media_key": "3_2044953603803402240",
+              "start": 92,
+              "url": "https://t.co/jdOI4qBIjd"
+            },
+            {
+              "display_url": "pic.x.com/jdOI4qBIjd",
+              "end": 115,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+              "media_key": "3_2044953603807535104",
+              "start": 92,
+              "url": "https://t.co/jdOI4qBIjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059249039846334669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044953614591115710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rain_kawaiiii1: -自介-\n🖤叫我潼/小潼就好\n🖤本账号内涵碎碎念/日常/负能/自伤\n🖤除互关外不扩列｜这里没有你想看的｜欢迎同类互fo🔪💊🩸\n🖤愿大家都能幸福 https://t.co/jdOI4qBIjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044953603824316416",
+            "3_2044953603803402240",
+            "3_2044953603807535104"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2044953614591115710",
+        "created_at": "2026-04-17T01:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044953614591115710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdOI4qBIjd",
+              "end": 95,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+              "media_key": "3_2044953603824316416",
+              "start": 72,
+              "url": "https://t.co/jdOI4qBIjd"
+            },
+            {
+              "display_url": "pic.x.com/jdOI4qBIjd",
+              "end": 95,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+              "media_key": "3_2044953603803402240",
+              "start": 72,
+              "url": "https://t.co/jdOI4qBIjd"
+            },
+            {
+              "display_url": "pic.x.com/jdOI4qBIjd",
+              "end": 95,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2044953614591115710/photo/1",
+              "media_key": "3_2044953603807535104",
+              "start": 72,
+              "url": "https://t.co/jdOI4qBIjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044953614591115710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4628,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "-自介-\n🖤叫我潼/小潼就好\n🖤本账号内涵碎碎念/日常/负能/自伤\n🖤除互关外不扩列｜这里没有你想看的｜欢迎同类互fo🔪💊🩸\n🖤愿大家都能幸福 https://t.co/jdOI4qBIjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 674,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1149
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\n👭 @setsukadare\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "setsukadare"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 149,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2051975234581139926",
+    "created_at": "2026-05-06T10:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051980148531237041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048770227417251840",
+          "start": 0,
+          "username": "xxuan_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051980148531237041",
+    "in_reply_to_user_id": "2048770227417251840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051979151276691902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxuan_sama 我努力哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2051975234581139926",
+        "created_at": "2026-05-06T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051980148531237041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048770227417251840",
+              "start": 0,
+              "username": "xxuan_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051980148531237041",
+        "in_reply_to_user_id": "2048770227417251840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051979151276691902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxuan_sama 我努力哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048770227417251840",
+        "conversation_id": "2051975234581139926",
+        "created_at": "2026-05-06T10:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051979151276691902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051979151276691902",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051975234581139926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 no！老师不要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 414,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 759
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T14:24:44.000Z",
+        "description": "05/♂\n双相情感障碍\nvrc/耐电\n欢迎来互动喵\n（也可能去骚扰您就是了）",
+        "id": "2048770227417251840",
+        "name": "i 玄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048770473887203328/km3gSfoS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 46,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 104
+        },
+        "username": "xxuan_sama",
+        "verified": false
+      }
+    ]
+  }
+}

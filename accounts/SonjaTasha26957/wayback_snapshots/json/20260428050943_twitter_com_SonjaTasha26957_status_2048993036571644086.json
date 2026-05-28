@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2048946922216636640",
+    "created_at": "2026-04-28T05:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048993036571644086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041360911936720896",
+          "start": 0,
+          "username": "teacherYing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048993036571644086",
+    "in_reply_to_user_id": "2041360911936720896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048966726583533911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teacherYing_ 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2048946922216636640",
+        "created_at": "2026-04-28T05:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048993036571644086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041360911936720896",
+              "start": 0,
+              "username": "teacherYing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048993036571644086",
+        "in_reply_to_user_id": "2041360911936720896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048966726583533911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacherYing_ 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041360911936720896",
+        "conversation_id": "2048946922216636640",
+        "created_at": "2026-04-28T03:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048966726583533911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048966726583533911",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048946922216636640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 尼玛这个剂量都有体感我真要急哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2047543790026813763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 194,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 405
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T03:43:08.000Z",
+        "description": "queer🏳️‍🌈/泛性恋/学音乐制作的毒虫大学生/重度玉米焦虑症/拉康派精神分析爱好者/药物交流/bilibili同名时不时直播打打游戏/都可互fo",
+        "id": "2041360911936720896",
+        "location": "成都",
+        "name": "迷人的应老师",
+        "pinned_tweet_id": "2048540327309676851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041361579682480129/YnCHJwWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 102
+        },
+        "username": "teacherYing_",
+        "verified": false
+      }
+    ]
+  }
+}

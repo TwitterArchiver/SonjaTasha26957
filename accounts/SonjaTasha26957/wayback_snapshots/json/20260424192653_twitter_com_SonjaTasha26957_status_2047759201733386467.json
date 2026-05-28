@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2047730885399822455",
+    "created_at": "2026-04-24T19:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047759201733386467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682558288247021568",
+          "start": 0,
+          "username": "miumiu_14_dd"
+        },
+        {
+          "end": 30,
+          "id": "1092924027704958976",
+          "start": 14,
+          "username": "shashoumeiyous1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047759201733386467",
+    "in_reply_to_user_id": "1682558288247021568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047730885399822455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumiu_14_dd @shashoumeiyous1 举报了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2047730885399822455",
+        "created_at": "2026-04-24T19:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047759201733386467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682558288247021568",
+              "start": 0,
+              "username": "miumiu_14_dd"
+            },
+            {
+              "end": 30,
+              "id": "1092924027704958976",
+              "start": 14,
+              "username": "shashoumeiyous1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047759201733386467",
+        "in_reply_to_user_id": "1682558288247021568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047730885399822455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumiu_14_dd @shashoumeiyous1 举报了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682558288247021568",
+        "conversation_id": "2047730885399822455",
+        "created_at": "2026-04-24T17:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047730885399822455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1092924027704958976",
+              "start": 18,
+              "username": "shashoumeiyous1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047730885399822455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家如果有空能不能帮忙举报一下这个人@shashoumeiyous1\n这个人发布初中女生的私密视频，隔空猥亵初中女生。😿😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2047543790026813763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 179,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 352
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:09:28.000Z",
+        "description": "社交能力堪比一只蚂蚁｜AFAB｜BPD／CPTSD／OSDD-1a｜有对象｜友跨｜Feminist ｜matriarchy｜不登校｜百合爱好者｜\n\n——★欢迎互fo★——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miumiu_14_dd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miumiu_14_dd",
+                "start": 0,
+                "url": "https://t.co/0roPVau7Sn"
+              }
+            ]
+          }
+        },
+        "id": "1682558288247021568",
+        "location": "匿名提问箱",
+        "name": "透明岚",
+        "pinned_tweet_id": "2042677538519158935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047391784897306624/eBi6dDQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 377,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/0roPVau7Sn",
+        "username": "miumiu_14_dd",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-05T23:12:48.000Z",
+        "description": "投稿 调教 羞辱 文字 P图 请关注后私信",
+        "id": "1092924027704958976",
+        "location": "East Los Angeles, CA",
+        "name": "杀手没有手",
+        "pinned_tweet_id": "1969412022829007347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966381641607389184/o3usbVOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 14,
+          "like_count": 18364,
+          "listed_count": 8,
+          "media_count": 160,
+          "tweet_count": 10243
+        },
+        "username": "shashoumeiyous1",
+        "verified": false
+      }
+    ]
+  }
+}

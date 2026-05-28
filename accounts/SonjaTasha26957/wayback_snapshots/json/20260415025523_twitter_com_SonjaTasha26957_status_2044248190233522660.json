@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044248179181531136"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2044248190233522660",
+    "created_at": "2026-04-15T02:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T03:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044248190233522660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+          "display_url": "circle.catsuki.cc/zh/circle/3cwd…",
+          "end": 39,
+          "expanded_url": "https://circle.catsuki.cc/zh/circle/3cwd9iy0",
+          "start": 16,
+          "status": 200,
+          "title": "X 互动圈生成器 — NekoCircle",
+          "unwound_url": "https://circle.catsuki.cc/zh/circle/3cwd9iy0",
+          "url": "https://t.co/6SCEsrc5Vk"
+        },
+        {
+          "display_url": "pic.x.com/ql6pjKZ4AK",
+          "end": 81,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2044248190233522660/photo/1",
+          "media_key": "3_2044248179181531136",
+          "start": 58,
+          "url": "https://t.co/ql6pjKZ4AK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044248190233522660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真不行了我肚肚\n快速寻找自己 https://t.co/6SCEsrc5Vk\n使用 NekoCircle 创建! https://t.co/ql6pjKZ4AK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2044248179181531136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6g41jasAAFBLk.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044248179181531136"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2044248190233522660",
+        "created_at": "2026-04-15T02:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044248190233522660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+              "display_url": "circle.catsuki.cc/zh/circle/3cwd…",
+              "end": 39,
+              "expanded_url": "https://circle.catsuki.cc/zh/circle/3cwd9iy0",
+              "start": 16,
+              "status": 200,
+              "title": "X 互动圈生成器 — NekoCircle",
+              "unwound_url": "https://circle.catsuki.cc/zh/circle/3cwd9iy0",
+              "url": "https://t.co/6SCEsrc5Vk"
+            },
+            {
+              "display_url": "pic.x.com/ql6pjKZ4AK",
+              "end": 81,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2044248190233522660/photo/1",
+              "media_key": "3_2044248179181531136",
+              "start": 58,
+              "url": "https://t.co/ql6pjKZ4AK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044248190233522660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不行了我肚肚\n快速寻找自己 https://t.co/6SCEsrc5Vk\n使用 NekoCircle 创建! https://t.co/ql6pjKZ4AK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 偶尔打钱 爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 53,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 105
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

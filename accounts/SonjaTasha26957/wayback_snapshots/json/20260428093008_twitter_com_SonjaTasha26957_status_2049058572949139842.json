@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2049058572949139842",
+    "created_at": "2026-04-28T09:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049058572949139842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fanqie_qianqia…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/fanqie_qianqian/status/2049046452316553663",
+          "start": 28,
+          "url": "https://t.co/QCTYR2oYUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049058572949139842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049046452316553663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有有番茄墙内联系方式的或者当地的？疑似tl了 求助 https://t.co/QCTYR2oYUa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2049058572949139842",
+        "created_at": "2026-04-28T09:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049058572949139842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fanqie_qianqia…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/fanqie_qianqian/status/2049046452316553663",
+              "start": 28,
+              "url": "https://t.co/QCTYR2oYUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049058572949139842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049046452316553663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有有番茄墙内联系方式的或者当地的？疑似tl了 求助 https://t.co/QCTYR2oYUa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2049046452316553663",
+        "created_at": "2026-04-28T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049046452316553663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049046452316553663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 469,
+          "like_count": 9,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "謝謝你們陪著我 要是我成功了請務必替我好好活著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2047543790026813763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 199,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 419
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "🚪",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2048007891450483082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 15,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

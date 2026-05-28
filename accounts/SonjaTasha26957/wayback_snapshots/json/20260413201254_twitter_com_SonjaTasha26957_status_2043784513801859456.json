@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2043784513801859456",
+    "created_at": "2026-04-13T20:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T21:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043784513801859456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547310338328080384",
+          "start": 3,
+          "username": "gaoliang0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043784513801859456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043772404372255165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gaoliang0808: 即将到达百FO 举办抽奖喵\n奖品👇（我是穷笔喵）\n一等奖：一盒普瑞（折现13）\n二等奖：普瑞胶囊一盒（折现8）\n三等奖：小普瑞三盒（折3.9）\n转帖+评论+赞+关注参与\n4.14日晚7：30到8：00左右开奖\n满108fo直接开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2043784513801859456",
+        "created_at": "2026-04-13T20:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T21:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043784513801859456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547310338328080384",
+              "start": 3,
+              "username": "gaoliang0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043784513801859456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043772404372255165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gaoliang0808: 即将到达百FO 举办抽奖喵\n奖品👇（我是穷笔喵）\n一等奖：一盒普瑞（折现13）\n二等奖：普瑞胶囊一盒（折现8）\n三等奖：小普瑞三盒（折3.9）\n转帖+评论+赞+关注参与\n4.14日晚7：30到8：00左右开奖\n满108fo直接开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547310338328080384",
+        "conversation_id": "2043772404372255165",
+        "created_at": "2026-04-13T19:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043772404372255165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043772404372255165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "即将到达百FO 举办抽奖喵\n奖品👇（我是穷笔喵）\n一等奖：一盒普瑞（折现13）\n二等奖：普瑞胶囊一盒（折现8）\n三等奖：小普瑞三盒（折3.9）\n转帖+评论+赞+关注参与\n4.14日晚7：30到8：00左右开奖\n满108fo直接开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 偶尔打钱 爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 35,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 45
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T20:02:05.000Z",
+        "description": "这里是道心 有卖烟 是oder。可互fo 喜欢的宝宝我会回fo 对电子烟有需要可联系我呀 戒药中 互fo直关就可有的时候没看到就私信给我我 也提供免费pr处方和药理知识询问 只需关注此号和简介的号 转帖点点赞就行啦 @dddlg29",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "dddlg29"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg520",
+                "end": 23,
+                "expanded_url": "https://t.me/dddlg520",
+                "start": 0,
+                "url": "https://t.co/Au75Hgnn6Q"
+              }
+            ]
+          }
+        },
+        "id": "1547310338328080384",
+        "location": "卢布朗咖啡厅",
+        "name": "道心 （烟代）",
+        "pinned_tweet_id": "2034336433172086904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018955454953766912/ZTCWEOYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 351,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/Au75Hgnn6Q",
+        "username": "gaoliang0808",
+        "verified": true
+      }
+    ]
+  }
+}

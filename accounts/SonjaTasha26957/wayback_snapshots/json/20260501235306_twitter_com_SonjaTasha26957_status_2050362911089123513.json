@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2050104206355505219",
+    "created_at": "2026-05-01T23:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050362911089123513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1970282205051056128",
+          "start": 0,
+          "username": "ji0000zi"
+        },
+        {
+          "end": 22,
+          "id": "1764820595387305984",
+          "start": 10,
+          "username": "miaoning000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050362911089123513",
+    "in_reply_to_user_id": "1970282205051056128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050342527581261965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji0000zi @miaoning000 抱抱你🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2050104206355505219",
+        "created_at": "2026-05-01T23:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050362911089123513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1970282205051056128",
+              "start": 0,
+              "username": "ji0000zi"
+            },
+            {
+              "end": 22,
+              "id": "1764820595387305984",
+              "start": 10,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050362911089123513",
+        "in_reply_to_user_id": "1970282205051056128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050342527581261965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji0000zi @miaoning000 抱抱你🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970282205051056128",
+        "conversation_id": "2050104206355505219",
+        "created_at": "2026-05-01T22:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T23:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050342527581261965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            },
+            {
+              "end": 109,
+              "id": "1764820595387305984",
+              "start": 97,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050342527581261965",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050104206355505219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 我闺蜜走了她网易云换了三次ip，和她一起走的对象前段时间把qq还有全删除，隐藏账号了…\n她Steam应该是给别人了，她游戏账号密码我给她朋友了\n她的推我在登…\n@miaoning000 我好想你啊😭😭\n我不应该去找对象的\n我应该和你一起走…我们说好的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 321,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 560
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T00:21:06.000Z",
+        "description": "她停留在温柔里，把最后的光与嘱托给我。我会好好活着🥺🥺\n喜欢可爱裙裙，抱抱玩偶🐱\n在芜湖\n日常更新ing(会减少更新涩涩了)，\n随时会消失的流浪猫\n可能不常互动的小猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ji00zi",
+                "end": 23,
+                "expanded_url": "https://t.me/ji00zi",
+                "start": 0,
+                "url": "https://t.co/wcXMwTzmwd"
+              }
+            ]
+          }
+        },
+        "id": "1970282205051056128",
+        "location": "5.2km",
+        "name": "好吃的小猫咪🍥(5代之碎碎念版本)",
+        "pinned_tweet_id": "2039817451802869978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037436059555106816/WiM29gPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 287,
+          "like_count": 749,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/wcXMwTzmwd",
+        "username": "ji0000zi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/🚪30￥/MTX/ overdose💊/双相/爱人@wanchunshi/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙\n频道链接 https://t.co/bCWAnc9ypA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "wanchunshi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaonning000",
+                "end": 134,
+                "expanded_url": "https://t.me/miaonning000",
+                "start": 111,
+                "url": "https://t.co/bCWAnc9ypA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+fd4ppG7YOqRhM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+fd4ppG7YOqRhMzM1",
+                "start": 0,
+                "url": "https://t.co/vqtnzUqg6h"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 3529,
+          "like_count": 14865,
+          "listed_count": 14,
+          "media_count": 519,
+          "tweet_count": 7662
+        },
+        "url": "https://t.co/vqtnzUqg6h",
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

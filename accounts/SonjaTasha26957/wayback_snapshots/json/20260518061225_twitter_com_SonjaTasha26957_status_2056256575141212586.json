@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2056237653864112391",
+    "created_at": "2026-05-18T06:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056256575141212586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039759562815733760",
+          "start": 0,
+          "username": "12sgcsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056256575141212586",
+    "in_reply_to_user_id": "2039759562815733760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056237653864112391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sgcsb 气死我了我在酒店呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056237642166251520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk5PbsbMAAh2al.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056237643277676544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk5Pf1aMAAVNsG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056237644263440385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk5PjgbwAEEvIN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2056237653864112391",
+        "created_at": "2026-05-18T06:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056256575141212586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039759562815733760",
+              "start": 0,
+              "username": "12sgcsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056256575141212586",
+        "in_reply_to_user_id": "2039759562815733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056237653864112391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sgcsb 气死我了我在酒店呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056237642166251520",
+            "3_2056237643277676544",
+            "3_2056237644263440385"
+          ]
+        },
+        "author_id": "2039759562815733760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056237653864112391",
+        "created_at": "2026-05-18T04:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056237653864112391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5qqR8zvd9",
+              "end": 31,
+              "expanded_url": "https://x.com/12sgcsb/status/2056237653864112391/photo/1",
+              "media_key": "3_2056237642166251520",
+              "start": 8,
+              "url": "https://t.co/j5qqR8zvd9"
+            },
+            {
+              "display_url": "pic.x.com/j5qqR8zvd9",
+              "end": 31,
+              "expanded_url": "https://x.com/12sgcsb/status/2056237653864112391/photo/1",
+              "media_key": "3_2056237643277676544",
+              "start": 8,
+              "url": "https://t.co/j5qqR8zvd9"
+            },
+            {
+              "display_url": "pic.x.com/j5qqR8zvd9",
+              "end": 31,
+              "expanded_url": "https://x.com/12sgcsb/status/2056237653864112391/photo/1",
+              "media_key": "3_2056237644263440385",
+              "start": 8,
+              "url": "https://t.co/j5qqR8zvd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056237653864112391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人吃饭点烟 https://t.co/j5qqR8zvd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2054222035153518899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 585,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 976
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/自戕与死亡/分裂性情感障碍/合法化学研究物质请联系@NhpxY43417",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NhpxY43417"
+              }
+            ]
+          }
+        },
+        "id": "2039759562815733760",
+        "location": "Kowloon City District",
+        "name": "12",
+        "pinned_tweet_id": "2056141434341019749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 183,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 325
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

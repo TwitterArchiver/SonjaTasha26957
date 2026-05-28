@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2054985857204162896",
+    "created_at": "2026-05-15T14:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055298296093286618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829016276393701381",
+          "start": 0,
+          "username": "dododo012806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055298296093286618",
+    "in_reply_to_user_id": "1829016276393701381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055230540283052231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dododo012806 我昨天被加巴喷丁900mg放倒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2054985857204162896",
+        "created_at": "2026-05-15T14:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055298296093286618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829016276393701381",
+              "start": 0,
+              "username": "dododo012806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055298296093286618",
+        "in_reply_to_user_id": "1829016276393701381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055230540283052231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dododo012806 我昨天被加巴喷丁900mg放倒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829016276393701381",
+        "conversation_id": "2054985857204162896",
+        "created_at": "2026-05-15T10:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055230540283052231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055230540283052231",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054985857204162896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 加巴喷丁真的有感觉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2054222035153518899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 566,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 936
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T04:40:55.000Z",
+        "description": "",
+        "id": "1829016276393701381",
+        "name": "0128",
+        "pinned_tweet_id": "2015385476644192658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032153661531680768/x_3fGA3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 157,
+          "like_count": 363,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 393
+        },
+        "username": "dododo012806",
+        "verified": false
+      }
+    ]
+  }
+}

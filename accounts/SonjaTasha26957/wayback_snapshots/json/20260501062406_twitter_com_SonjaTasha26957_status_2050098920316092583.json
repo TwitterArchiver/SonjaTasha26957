@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2050098920316092583",
+    "created_at": "2026-05-01T06:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050098920316092583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hg355101917740…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/hg3551019177402/status/2050059948462420402",
+          "start": 34,
+          "url": "https://t.co/hwW7nGFuvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050098920316092583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050059948462420402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "12把挣得钱全给我买烟了啊啊啊啊啊啊啊啊啊啊我的法克噢噢噢噢噢噢噢 https://t.co/hwW7nGFuvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050059945043963904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNGqIiaMAABpvL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2050098920316092583",
+        "created_at": "2026-05-01T06:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050098920316092583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hg355101917740…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/hg3551019177402/status/2050059948462420402",
+              "start": 34,
+              "url": "https://t.co/hwW7nGFuvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050098920316092583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050059948462420402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "12把挣得钱全给我买烟了啊啊啊啊啊啊啊啊啊啊我的法克噢噢噢噢噢噢噢 https://t.co/hwW7nGFuvX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050059945043963904"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2050059948462420402",
+        "created_at": "2026-05-01T03:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050059948462420402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1757603703811371008",
+              "start": 2,
+              "username": "SonjaTasha26957"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVfZJTq7Op",
+              "end": 100,
+              "expanded_url": "https://x.com/hg3551019177402/status/2050059948462420402/photo/1",
+              "media_key": "3_2050059945043963904",
+              "start": 77,
+              "url": "https://t.co/JVfZJTq7Op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050059948462420402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "送给@SonjaTasha26957 ，这两天挣的全亏进去了哈哈哈 我都不知道七匹狼有这么多烟，新增一个服务代购七匹狼（ 一包挣你5块这样，快递费自出。 https://t.co/JVfZJTq7Op"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049254324233240852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 313,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 536
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑色柳丁：@rinii165892 老板a 干点烟代，电子烟纸烟（老板嫌一盒利润太低只能买整条，但是可以混拼！）（价格跟你外面直接买更便宜一点，我能挣个20块左右的回扣，这会让我开心几秒钟，只要有录制开箱视频售后绝对做到位）还有个老板b可以散烟买，利润使用小学数学法！ 已被学校开除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2049802773710151920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 714,
+          "like_count": 18310,
+          "listed_count": 1,
+          "media_count": 606,
+          "tweet_count": 9135
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

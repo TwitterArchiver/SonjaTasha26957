@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2051673733509857736",
+    "created_at": "2026-05-05T14:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051673733509857736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiandu23333/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/jiandu23333/status/2051388405729432032",
+          "start": 15,
+          "url": "https://t.co/vLEpVKcpeS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051673733509857736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051388405729432032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个宝宝大号炸了 寻回互fo https://t.co/vLEpVKcpeS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2051388369037561856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHf-2ljaEAAnqHQ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2051673733509857736",
+        "created_at": "2026-05-05T14:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051673733509857736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiandu23333/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/jiandu23333/status/2051388405729432032",
+              "start": 15,
+              "url": "https://t.co/vLEpVKcpeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051673733509857736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051388405729432032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个宝宝大号炸了 寻回互fo https://t.co/vLEpVKcpeS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051388369037561856"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2051388405729432032",
+        "created_at": "2026-05-04T19:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051388405729432032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXH8gCRq8k",
+              "end": 37,
+              "expanded_url": "https://x.com/jiandu23333/status/2051388405729432032/photo/1",
+              "media_key": "3_2051388369037561856",
+              "start": 14,
+              "url": "https://t.co/RXH8gCRq8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051388405729432032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "账号就这么水灵灵的没了…… https://t.co/RXH8gCRq8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 394,
+          "like_count": 49,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 682
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "沃尔玛塑料袋/INTP/06年/轻度游戏爱好/東方/互fo私信",
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱（重生之未满13岁）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 45,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 21
+        },
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

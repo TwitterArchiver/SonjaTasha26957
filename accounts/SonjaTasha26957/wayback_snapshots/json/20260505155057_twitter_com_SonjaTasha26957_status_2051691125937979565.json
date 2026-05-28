@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051691018366676992"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2051691125937979565",
+    "created_at": "2026-05-05T15:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051691125937979565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZibaoA5UtO",
+          "end": 41,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2051691125937979565/video/1",
+          "media_key": "13_2051691018366676992",
+          "start": 18,
+          "url": "https://t.co/ZibaoA5UtO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051691125937979565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是啊我知道我自己长得丑但是我就发🤤 https://t.co/ZibaoA5UtO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14233,
+        "height": 1280,
+        "media_key": "13_2051691018366676992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051691018366676992/img/Ek_-b2rcAfzIZYYl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051691018366676992/vid/avc1/320x568/Og3B5M2asKi4TXgU.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051691018366676992/vid/avc1/480x852/yvZ2dIxzRpIf0wOw.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051691018366676992/vid/avc1/720x1280/1eJQsnEZDLSR7C49.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051691018366676992/pl/GHKnxXPivWVHoy4M.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051691018366676992"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2051691125937979565",
+        "created_at": "2026-05-05T15:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051691125937979565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZibaoA5UtO",
+              "end": 41,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2051691125937979565/video/1",
+              "media_key": "13_2051691018366676992",
+              "start": 18,
+              "url": "https://t.co/ZibaoA5UtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051691125937979565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是啊我知道我自己长得丑但是我就发🤤 https://t.co/ZibaoA5UtO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 394,
+          "like_count": 49,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 683
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

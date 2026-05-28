@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2044266441961288014",
+    "created_at": "2026-04-15T04:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044266441961288014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shi_xiao_xiao/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shi_xiao_xiao/status/2044116315921887673",
+          "start": 7,
+          "url": "https://t.co/bvRb5Mr2Uu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044266441961288014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044116315921887673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我爱听。 https://t.co/bvRb5Mr2Uu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 79943,
+        "height": 1280,
+        "media_key": "13_2044116101202882563",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044116101202882563/img/czyPslMKyMI0q3I7.jpg",
+        "public_metrics": {
+          "view_count": 10570
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044116101202882563/vid/avc1/320x690/CrESfaXl3RZFl1AE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044116101202882563/vid/avc1/480x1036/GCBiWujopSTlq7Uh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044116101202882563/vid/avc1/592x1280/OyZfvKAoygZTGybx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044116101202882563/pl/NUAX1HV8my5ZmPYd.m3u8?v=cfc"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2044266441961288014",
+        "created_at": "2026-04-15T04:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044266441961288014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shi_xiao_xiao/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shi_xiao_xiao/status/2044116315921887673",
+              "start": 7,
+              "url": "https://t.co/bvRb5Mr2Uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044266441961288014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044116315921887673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我爱听。 https://t.co/bvRb5Mr2Uu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044116101202882563"
+          ]
+        },
+        "author_id": "1767388411315539968",
+        "conversation_id": "2044116315921887673",
+        "created_at": "2026-04-14T18:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044116315921887673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "女喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLLA2M2yTw",
+              "end": 63,
+              "expanded_url": "https://x.com/Shi_xiao_xiao/status/2044116315921887673/video/1",
+              "media_key": "13_2044116101202882563",
+              "start": 40,
+              "url": "https://t.co/KLLA2M2yTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044116315921887673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 15790,
+          "like_count": 470,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "憋尿后被玩弄阴蒂 就算是性冷淡也得爽到求饶耶\n\n依旧是一个晚睡小彩蛋\n\n#女喘 https://t.co/KLLA2M2yTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 偶尔打钱 爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 55,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 113
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T03:13:54.000Z",
+        "description": "梦想是做最好的喘子 全网唯一账号，其他都是骗子/推广自辨 碎碎念@shirenyijia 🎮b站直播账号：时小大王",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "shirenyijia"
+              }
+            ]
+          }
+        },
+        "id": "1767388411315539968",
+        "location": "能被你喜欢是我的荣幸",
+        "name": "时小（女喘",
+        "pinned_tweet_id": "2039280475869692188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006603554157649920/cn69v_Uf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21626,
+          "following_count": 70,
+          "like_count": 2061,
+          "listed_count": 107,
+          "media_count": 180,
+          "tweet_count": 602
+        },
+        "username": "Shi_xiao_xiao",
+        "verified": false
+      }
+    ]
+  }
+}

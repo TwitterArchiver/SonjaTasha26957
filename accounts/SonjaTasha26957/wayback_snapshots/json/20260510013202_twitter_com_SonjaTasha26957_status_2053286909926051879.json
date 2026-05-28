@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053286899952029696"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2052014134838059511",
+    "created_at": "2026-05-10T01:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053286909926051879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5avTSECZQe",
+          "end": 42,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2053286909926051879/photo/1",
+          "media_key": "3_2053286899952029696",
+          "start": 19,
+          "url": "https://t.co/5avTSECZQe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053286909926051879",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052014134838059511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开了开了 私信我或者恢复这条找我兑奖 https://t.co/5avTSECZQe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053286899952029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH69joWakAAiaHh.jpg",
+        "width": 472
+      },
+      {
+        "height": 658,
+        "media_key": "3_2052014106585251840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo39TkawAApEls.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053286899952029696"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2052014134838059511",
+        "created_at": "2026-05-10T01:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053286909926051879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5avTSECZQe",
+              "end": 42,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2053286909926051879/photo/1",
+              "media_key": "3_2053286899952029696",
+              "start": 19,
+              "url": "https://t.co/5avTSECZQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053286909926051879",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052014134838059511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开了开了 私信我或者恢复这条找我兑奖 https://t.co/5avTSECZQe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052014106585251840"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2052014134838059511",
+        "created_at": "2026-05-06T13:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052014134838059511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OATKXmzyui",
+              "end": 80,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2052014134838059511/photo/1",
+              "media_key": "3_2052014106585251840",
+              "start": 57,
+              "url": "https://t.co/OATKXmzyui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052014134838059511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7002,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 110,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "转评赞参与 三项都要做到哦 时间5.6—-5.9三天哦 到时候ai开奖 请大家踊跃参与吧！！！我的600fo福利 https://t.co/OATKXmzyui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 523,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 833
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

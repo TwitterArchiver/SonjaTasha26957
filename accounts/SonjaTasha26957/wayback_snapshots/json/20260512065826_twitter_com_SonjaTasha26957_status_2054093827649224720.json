@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2054093827649224720",
+    "created_at": "2026-05-12T06:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054093827649224720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/12sgcsb/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/12sgcsb/status/2054093750528594265",
+          "start": 6,
+          "url": "https://t.co/OKHu81nhhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054093827649224720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054093750528594265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来支持了。 https://t.co/OKHu81nhhj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054093739325636609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGbX3PbwAEmG7G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054093738369236992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGbXzraQAAeAo-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2054093827649224720",
+        "created_at": "2026-05-12T06:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054093827649224720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/12sgcsb/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/12sgcsb/status/2054093750528594265",
+              "start": 6,
+              "url": "https://t.co/OKHu81nhhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054093827649224720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054093750528594265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来支持了。 https://t.co/OKHu81nhhj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054093739325636609",
+            "3_2054093738369236992"
+          ]
+        },
+        "author_id": "2039759562815733760",
+        "conversation_id": "2054093750528594265",
+        "created_at": "2026-05-12T06:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054093750528594265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hvustp2Xgn",
+              "end": 39,
+              "expanded_url": "https://x.com/12sgcsb/status/2054093750528594265/photo/1",
+              "media_key": "3_2054093739325636609",
+              "start": 16,
+              "url": "https://t.co/Hvustp2Xgn"
+            },
+            {
+              "display_url": "pic.x.com/Hvustp2Xgn",
+              "end": 39,
+              "expanded_url": "https://x.com/12sgcsb/status/2054093750528594265/photo/1",
+              "media_key": "3_2054093738369236992",
+              "start": 16,
+              "url": "https://t.co/Hvustp2Xgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054093750528594265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@所有人（高达两个）点上一根烟 https://t.co/Hvustp2Xgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 541,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 857
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/不推销了，老实了",
+        "id": "2039759562815733760",
+        "location": "cn",
+        "name": "12（已老实）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

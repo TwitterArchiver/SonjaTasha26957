@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2050407970115301503",
+    "created_at": "2026-05-02T08:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050497855429996703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684232422781747207",
+          "start": 0,
+          "username": "Chuziha38126578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050497855429996703",
+    "in_reply_to_user_id": "1684232422781747207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050495897382084825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuziha38126578 三个人一起买的！（其他赛博我去采购 大家都很爱他 我也读了大家想和他说的话 哎 大家都带了一份 我觉得 真的有人在乎他吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2050407970115301503",
+        "created_at": "2026-05-02T08:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050497855429996703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684232422781747207",
+              "start": 0,
+              "username": "Chuziha38126578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050497855429996703",
+        "in_reply_to_user_id": "1684232422781747207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050495897382084825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuziha38126578 三个人一起买的！（其他赛博我去采购 大家都很爱他 我也读了大家想和他说的话 哎 大家都带了一份 我觉得 真的有人在乎他吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684232422781747207",
+        "conversation_id": "2050407970115301503",
+        "created_at": "2026-05-02T08:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050495897382084825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050495897382084825",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050465787950018878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 买这多你真的好爱他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 340,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 582
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T16:01:59.000Z",
+        "description": "交友请私信｜喜欢我的唯一标准就是打钱",
+        "id": "1684232422781747207",
+        "location": "0.1km",
+        "name": "稳稳的幸福",
+        "pinned_tweet_id": "1930923177091428617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011421652081336320/Jko5-Ly5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 179,
+          "like_count": 1735,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1088
+        },
+        "username": "Chuziha38126578",
+        "verified": false
+      }
+    ]
+  }
+}

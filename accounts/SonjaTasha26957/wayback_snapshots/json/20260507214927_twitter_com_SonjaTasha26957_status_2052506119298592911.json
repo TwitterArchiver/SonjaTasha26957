@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2052307220294189471",
+    "created_at": "2026-05-07T21:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T22:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052506119298592911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044820163493523457",
+          "start": 0,
+          "username": "wenwen91732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052506119298592911",
+    "in_reply_to_user_id": "2044820163493523457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052307220294189471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenwen91732 我被整医院去了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2052307220294189471",
+        "created_at": "2026-05-07T21:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052506119298592911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044820163493523457",
+              "start": 0,
+              "username": "wenwen91732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052506119298592911",
+        "in_reply_to_user_id": "2044820163493523457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052307220294189471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenwen91732 我被整医院去了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044820163493523457",
+        "conversation_id": "2052307220294189471",
+        "created_at": "2026-05-07T08:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052307220294189471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052307220294189471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17019,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 97,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想减肥的姐妹别碰减肥针好吗，我身边有用玛仕度肽也有用替西的，这个东西原本是给糖尿病病人减肥用的，如果你是糖尿病病人，你去医院买甚至可以刷医保，你如果是大基数180斤200来斤也就算了，小基数减肥真的不要用，这个针你打完吃不下饭其实还是节食减肥，副作用掉头发可能一年半年都养不回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 492,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 795
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T16:48:36.000Z",
+        "description": "发点碎碎念",
+        "id": "2044820163493523457",
+        "name": "悠栗猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050634409079185408/_6DbSMWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 41,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 133
+        },
+        "username": "wenwen91732",
+        "verified": false
+      }
+    ]
+  }
+}

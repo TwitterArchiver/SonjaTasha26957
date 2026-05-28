@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2043543811977289946",
+    "created_at": "2026-04-13T21:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T22:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043810881361064402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1077664655848263680",
+          "start": 0,
+          "username": "tianzhen6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043810881361064402",
+    "in_reply_to_user_id": "1077664655848263680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043774313497502008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianzhen6666 纹身贴啦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2043543811977289946",
+        "created_at": "2026-04-13T21:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043810881361064402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1077664655848263680",
+              "start": 0,
+              "username": "tianzhen6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043810881361064402",
+        "in_reply_to_user_id": "1077664655848263680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043774313497502008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianzhen6666 纹身贴啦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077664655848263680",
+        "conversation_id": "2043543811977289946",
+        "created_at": "2026-04-13T19:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043774313497502008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043774313497502008",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043543811977289946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 别哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 偶尔打钱 爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 38,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-25T20:37:30.000Z",
+        "description": "📍杭州China·Hangzhou◾️穿孔·纹身 ◾️tattoo artist\n📡vx：ba13901说明来处",
+        "id": "1077664655848263680",
+        "location": "杭州,浙江,中国",
+        "name": "卞较瘦在纹身",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035112428904513536/DUL9ZeEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 38,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 298
+        },
+        "username": "tianzhen6666",
+        "verified": false
+      }
+    ]
+  }
+}

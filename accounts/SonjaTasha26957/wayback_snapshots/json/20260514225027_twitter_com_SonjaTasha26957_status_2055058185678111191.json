@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2054974174045888736",
+    "created_at": "2026-05-14T22:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T23:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055058185678111191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045996217188925440",
+          "start": 0,
+          "username": "deadponies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055058185678111191",
+    "in_reply_to_user_id": "2045996217188925440",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055042143614283824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deadponies More nicotine in hooka~ It's very comfortable."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2054974174045888736",
+        "created_at": "2026-05-14T22:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055058185678111191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045996217188925440",
+              "start": 0,
+              "username": "deadponies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055058185678111191",
+        "in_reply_to_user_id": "2045996217188925440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055042143614283824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deadponies More nicotine in hooka~ It's very comfortable."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045996217188925440",
+        "conversation_id": "2054974174045888736",
+        "created_at": "2026-05-14T21:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T22:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055042143614283824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055042143614283824",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054974174045888736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 how different are hookahs compared to smoking regularly? ε(*´･ω･)з"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2054222035153518899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 565,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 928
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T22:42:57.000Z",
+        "description": "18+vent trigger warning\neverything fake (･ω･´)\ndon't follow if U r a minor\nbpd/ed/sh/disso/drug",
+        "id": "2045996217188925440",
+        "location": "refer as name. ☮️ 21 🎼🏳️‍⚧️",
+        "name": "VULTURE 🏚️",
+        "pinned_tweet_id": "2054372584104329225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047121934467375104/cm6L_bZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "username": "deadponies",
+        "verified": false
+      }
+    ]
+  }
+}

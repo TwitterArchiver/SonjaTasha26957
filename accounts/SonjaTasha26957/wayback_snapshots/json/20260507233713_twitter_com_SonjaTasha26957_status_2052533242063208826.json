@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052516875675004928",
+        "3_2052516875683463168"
+      ],
+      "media_source_tweet_id": [
+        "2052516889574937025",
+        "2052516889574937025"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2052533242063208826",
+    "created_at": "2026-05-07T23:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T00:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052533242063208826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009238088149786624",
+          "start": 3,
+          "username": "dddlg555"
+        }
+      ],
+      "urls": [
+        {
+          "description": "大概就是一直制作cos道具的小窝 本窝售出的所有商品不可食用 可以聊聊天喵",
+          "display_url": "t.me/hinakofor1",
+          "end": 81,
+          "expanded_url": "https://t.me/hinakofor1",
+          "start": 58,
+          "status": 200,
+          "title": "花粉聚集地",
+          "unwound_url": "https://t.me/hinakofor1",
+          "url": "https://t.co/G03eIlq5uA"
+        },
+        {
+          "display_url": "pic.x.com/v2VfsSPVZA",
+          "end": 105,
+          "expanded_url": "https://x.com/dddlg555/status/2052516889574937025/photo/1",
+          "media_key": "3_2052516875675004928",
+          "start": 82,
+          "url": "https://t.co/v2VfsSPVZA"
+        },
+        {
+          "display_url": "pic.x.com/v2VfsSPVZA",
+          "end": 105,
+          "expanded_url": "https://x.com/dddlg555/status/2052516889574937025/photo/1",
+          "media_key": "3_2052516875683463168",
+          "start": 82,
+          "url": "https://t.co/v2VfsSPVZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052533242063208826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052516889574937025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dddlg555: 大概就是tg群抽奖!!\n转帖点赞关注进群即可参与!\n本次奖品超丰富!详细看图\ntg群指路https://t.co/G03eIlq5uA https://t.co/v2VfsSPVZA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2052516875675004928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwBOUYacAA41Ow.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1177,
+        "media_key": "3_2052516875683463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwBOUabgAAkIS0.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052516875675004928",
+            "3_2052516875683463168"
+          ],
+          "media_source_tweet_id": [
+            "2052516889574937025",
+            "2052516889574937025"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2052533242063208826",
+        "created_at": "2026-05-07T23:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052533242063208826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009238088149786624",
+              "start": 3,
+              "username": "dddlg555"
+            }
+          ],
+          "urls": [
+            {
+              "description": "大概就是一直制作cos道具的小窝 本窝售出的所有商品不可食用 可以聊聊天喵",
+              "display_url": "t.me/hinakofor1",
+              "end": 81,
+              "expanded_url": "https://t.me/hinakofor1",
+              "start": 58,
+              "status": 200,
+              "title": "花粉聚集地",
+              "unwound_url": "https://t.me/hinakofor1",
+              "url": "https://t.co/G03eIlq5uA"
+            },
+            {
+              "display_url": "pic.x.com/v2VfsSPVZA",
+              "end": 105,
+              "expanded_url": "https://x.com/dddlg555/status/2052516889574937025/photo/1",
+              "media_key": "3_2052516875675004928",
+              "start": 82,
+              "url": "https://t.co/v2VfsSPVZA"
+            },
+            {
+              "display_url": "pic.x.com/v2VfsSPVZA",
+              "end": 105,
+              "expanded_url": "https://x.com/dddlg555/status/2052516889574937025/photo/1",
+              "media_key": "3_2052516875683463168",
+              "start": 82,
+              "url": "https://t.co/v2VfsSPVZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052533242063208826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052516889574937025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dddlg555: 大概就是tg群抽奖!!\n转帖点赞关注进群即可参与!\n本次奖品超丰富!详细看图\ntg群指路https://t.co/G03eIlq5uA https://t.co/v2VfsSPVZA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052516875675004928",
+            "3_2052516875683463168"
+          ]
+        },
+        "author_id": "2009238088149786624",
+        "conversation_id": "2052516889574937025",
+        "created_at": "2026-05-07T22:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T23:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052516889574937025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "大概就是一直制作cos道具的小窝 本窝售出的所有商品不可食用 可以聊聊天喵",
+              "display_url": "t.me/hinakofor1",
+              "end": 67,
+              "expanded_url": "https://t.me/hinakofor1",
+              "start": 44,
+              "status": 200,
+              "title": "花粉聚集地",
+              "unwound_url": "https://t.me/hinakofor1",
+              "url": "https://t.co/G03eIlq5uA"
+            },
+            {
+              "display_url": "pic.x.com/v2VfsSPVZA",
+              "end": 91,
+              "expanded_url": "https://x.com/dddlg555/status/2052516889574937025/photo/1",
+              "media_key": "3_2052516875675004928",
+              "start": 68,
+              "url": "https://t.co/v2VfsSPVZA"
+            },
+            {
+              "display_url": "pic.x.com/v2VfsSPVZA",
+              "end": 91,
+              "expanded_url": "https://x.com/dddlg555/status/2052516889574937025/photo/1",
+              "media_key": "3_2052516875683463168",
+              "start": 68,
+              "url": "https://t.co/v2VfsSPVZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052516889574937025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大概就是tg群抽奖!!\n转帖点赞关注进群即可参与!\n本次奖品超丰富!详细看图\ntg群指路https://t.co/G03eIlq5uA https://t.co/v2VfsSPVZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 493,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 797
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T12:17:55.000Z",
+        "description": "火花花再度转生！是oder呀 新号 原号被封了\n疯狂互fo中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg520",
+                "end": 23,
+                "expanded_url": "http://t.me/dddlg520",
+                "start": 0,
+                "url": "https://t.co/w7ukAvhA3b"
+              }
+            ]
+          }
+        },
+        "id": "2009238088149786624",
+        "location": "二相乐园-海原市",
+        "name": "@花导在路上Office",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042795325853962246/Ad-E3YAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 62,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/w7ukAvhA3b",
+        "username": "dddlg555",
+        "verified": false
+      }
+    ]
+  }
+}

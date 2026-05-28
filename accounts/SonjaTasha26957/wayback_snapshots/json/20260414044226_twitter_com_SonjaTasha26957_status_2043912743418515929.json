@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2043543811977289946",
+    "created_at": "2026-04-14T04:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043912743418515929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1072837502732566529",
+          "start": 0,
+          "username": "LingTingHH40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043912743418515929",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043843815086416284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingTingHH40 12:42眼球震颤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2043543811977289946",
+        "created_at": "2026-04-14T04:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043912743418515929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1072837502732566529",
+              "start": 0,
+              "username": "LingTingHH40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043912743418515929",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043843815086416284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingTingHH40 12:42眼球震颤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2043543811977289946",
+        "created_at": "2026-04-14T00:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043843815086416284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1072837502732566529",
+              "start": 0,
+              "username": "LingTingHH40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043843815086416284",
+        "in_reply_to_user_id": "1072837502732566529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043625439957230069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingTingHH40 可爱捏！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 偶尔打钱 爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 41,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 69
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-12T12:56:07.000Z",
+        "description": "二次元 | DYOR | 偶尔发疯 | 人生百态 | 看看喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingtinghh40",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingtinghh40",
+                "start": 0,
+                "url": "https://t.co/jYD9gxRg1A"
+              }
+            ]
+          }
+        },
+        "id": "1072837502732566529",
+        "name": "りん",
+        "pinned_tweet_id": "2043693516153573743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037741304873201664/niyrY4gT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6383,
+          "following_count": 3623,
+          "like_count": 841,
+          "listed_count": 5,
+          "media_count": 298,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/jYD9gxRg1A",
+        "username": "LingTingHH40",
+        "verified": true
+      }
+    ]
+  }
+}

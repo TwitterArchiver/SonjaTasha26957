@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050318771034951680"
+      ]
+    },
+    "author_id": "1757603703811371008",
+    "conversation_id": "2050318875351449662",
+    "created_at": "2026-05-01T20:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T21:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050318875351449662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZ2bd1I1cG",
+          "end": 31,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2050318875351449662/video/1",
+          "media_key": "13_2050318771034951680",
+          "start": 8,
+          "url": "https://t.co/GZ2bd1I1cG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050318875351449662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯 我 好难受 https://t.co/GZ2bd1I1cG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12212,
+        "height": 1280,
+        "media_key": "13_2050318771034951680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050318771034951680/img/Jml-F6m9OOIVWinL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050318771034951680/vid/avc1/320x568/Iryka1vOf5SAIFAQ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050318771034951680/vid/avc1/480x852/11hggTEETxK3HanE.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050318771034951680/vid/avc1/720x1280/C4_guiBmmMTCaeJ-.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050318771034951680/pl/F0fnAJgbvu6YLsi0.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050318771034951680"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2050318875351449662",
+        "created_at": "2026-05-01T20:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050318875351449662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZ2bd1I1cG",
+              "end": 31,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2050318875351449662/video/1",
+              "media_key": "13_2050318771034951680",
+              "start": 8,
+              "url": "https://t.co/GZ2bd1I1cG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050318875351449662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯 我 好难受 https://t.co/GZ2bd1I1cG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 318,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 552
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2043543811977289946",
+    "created_at": "2026-04-14T00:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T01:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043843724451672078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850349756559654912",
+          "start": 0,
+          "username": "cgugbvhct88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043843724451672078",
+    "in_reply_to_user_id": "850349756559654912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043572465876815997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cgugbvhct88 可爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2043543811977289946",
+        "created_at": "2026-04-14T00:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043843724451672078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "850349756559654912",
+              "start": 0,
+              "username": "cgugbvhct88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043843724451672078",
+        "in_reply_to_user_id": "850349756559654912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043572465876815997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cgugbvhct88 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850349756559654912",
+        "conversation_id": "2043543811977289946",
+        "created_at": "2026-04-13T06:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043572465876815997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043572465876815997",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043543811977289946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 可愛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 偶尔打钱 爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 38,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 59
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-07T14:09:15.000Z",
+        "description": "喜歡蒐集各式各樣的泰迪熊🧸 是熊弟弟的媽媽非常喜歡看喵的影片,喵是熊孩子的父母",
+        "id": "850349756559654912",
+        "name": "庭熊🐻🐈🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933487049551781888/-owYWBd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 6162,
+          "like_count": 33416,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 7696
+        },
+        "username": "cgugbvhct88",
+        "verified": false
+      }
+    ]
+  }
+}

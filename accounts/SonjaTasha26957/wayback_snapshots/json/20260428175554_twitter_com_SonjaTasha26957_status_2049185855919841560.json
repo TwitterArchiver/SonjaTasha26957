@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2049049063304446426",
+    "created_at": "2026-04-28T17:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049185855919841560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1878840369858961408",
+          "start": 0,
+          "username": "Muyuuw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049185855919841560",
+    "in_reply_to_user_id": "1878840369858961408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049116671261262017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Muyuuw 好久之前买的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2049049063304446426",
+        "created_at": "2026-04-28T17:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049185855919841560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878840369858961408",
+              "start": 0,
+              "username": "Muyuuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049185855919841560",
+        "in_reply_to_user_id": "1878840369858961408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049116671261262017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muyuuw 好久之前买的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878840369858961408",
+        "conversation_id": "2049049063304446426",
+        "created_at": "2026-04-28T13:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049116671261262017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049116671261262017",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049049063304446426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 软黑七星？哪里买的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2047543790026813763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 220,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 448
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T16:24:02.000Z",
+        "description": "请永远幸福吧……！",
+        "id": "1878840369858961408",
+        "location": "Shanghai",
+        "name": "暮雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041049107209592832/dsUCyZ5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 30,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 176
+        },
+        "username": "Muyuuw",
+        "verified": false
+      }
+    ]
+  }
+}

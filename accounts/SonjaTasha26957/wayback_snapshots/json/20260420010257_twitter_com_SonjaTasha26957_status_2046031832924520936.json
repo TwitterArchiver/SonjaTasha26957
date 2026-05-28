@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2046003554708775037",
+    "created_at": "2026-04-20T01:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046031832924520936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862861397304225792",
+          "start": 0,
+          "username": "Z3r0_404Error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046031832924520936",
+    "in_reply_to_user_id": "1862861397304225792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046020533134000400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z3r0_404Error 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2046003554708775037",
+        "created_at": "2026-04-20T01:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046031832924520936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862861397304225792",
+              "start": 0,
+              "username": "Z3r0_404Error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046031832924520936",
+        "in_reply_to_user_id": "1862861397304225792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046020533134000400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z3r0_404Error 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862861397304225792",
+        "conversation_id": "2046003554708775037",
+        "created_at": "2026-04-20T00:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046020533134000400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046020533134000400",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046003554708775037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2043381951839781147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 154,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 233
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "雙相患者，迴避型人格障礙\n喜歡按讚repost一些愛看的東西，或者甩點日常或者遊戲寫真，會給喜歡的老師按讚repost",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B5%90%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%B5%90%E6%9C%88",
+                "start": 0,
+                "url": "https://t.co/z8qqfA6E0B"
+              }
+            ]
+          }
+        },
+        "id": "1862861397304225792",
+        "location": "City of glitch",
+        "name": "Z3r0",
+        "pinned_tweet_id": "1915741545405517889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045962857557401600/Yq6rUZJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 163,
+          "like_count": 15128,
+          "listed_count": 2,
+          "media_count": 455,
+          "tweet_count": 4506
+        },
+        "url": "https://t.co/z8qqfA6E0B",
+        "username": "Z3r0_404Error",
+        "verified": false
+      }
+    ]
+  }
+}
