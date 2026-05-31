@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059506449123098997",
+    "created_at": "2026-05-27T11:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059596523051401609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826701524451688451",
+          "start": 0,
+          "username": "xmxmwtyn7474"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059596523051401609",
+    "in_reply_to_user_id": "1826701524451688451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059595130915762584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmxmwtyn7474 我最喜欢看的是黑贝街亡灵 还有那个吸血鬼的那个 最后说是卟啉症那个 这个看了我心疼半天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059506449123098997",
+        "created_at": "2026-05-27T11:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059596523051401609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826701524451688451",
+              "start": 0,
+              "username": "xmxmwtyn7474"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059596523051401609",
+        "in_reply_to_user_id": "1826701524451688451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059595130915762584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmxmwtyn7474 我最喜欢看的是黑贝街亡灵 还有那个吸血鬼的那个 最后说是卟啉症那个 这个看了我心疼半天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826701524451688451",
+        "conversation_id": "2059506449123098997",
+        "created_at": "2026-05-27T11:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059595130915762584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059595130915762584",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059594589896634833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 好悲伤，感觉收集完那么多书太厉害了😭\n我是求了我妈好久才买了几本来看。当时很喜欢那个解谜卡，还有那条狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 690,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1205
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T19:22:54.000Z",
+        "description": "↑思诺思狂熱粉\n人为了幸福究竟要付出多少努力呢",
+        "id": "1826701524451688451",
+        "name": "みみるん^",
+        "pinned_tweet_id": "1952413602855768508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990713884014243840/rAHvnWax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 98,
+          "like_count": 5842,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1269
+        },
+        "username": "xmxmwtyn7474",
+        "verified": false
+      }
+    ]
+  }
+}

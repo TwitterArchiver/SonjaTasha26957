@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059855984848417016",
+    "created_at": "2026-05-28T04:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059855984848417016"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "门槛"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 107,
+          "start": 102,
+          "tag": "电子女友"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "反差"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "小狗日记"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "包养"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "肉腿"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "巨乳"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "女大"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385046676302229505",
+          "start": 3,
+          "username": "Leonard45932429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059855984848417016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027644875051823346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leonard45932429: 我是小夜\n已成年呆萌巨乳小狗一枚\n一个问题五块钱验证十块钱可以抵门槛\n可以给我钱吗我想吃吉野家萨莉亚达美乐好利来窑鸡王杀猪粉铜锅涮肉\n#门槛妹 #门槛 #爸爸活 #电子女友 #反差 #小狗日记 #包养 #肉腿 #巨乳 #女大 https…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059855984848417016].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059855984848417016",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059855984848417016"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2027644737545805824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOkJVgboAApwBW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2027644737549955072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOkJVha8AAW-UG.jpg",
+        "width": 1206
+      },
+      {
+        "duration_ms": 12033,
+        "height": 2880,
+        "media_key": "13_2027644737554157574",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027644737554157574/img/UsMGplcdQWJAjb5V.jpg",
+        "public_metrics": {
+          "view_count": 22363
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027644737554157574/vid/avc1/320x426/pkn3zTzo1PzcOeFK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027644737554157574/vid/avc1/480x640/FE1yqPgQiGgG9xPR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027644737554157574/vid/avc1/720x960/mDKc4kDSab4tR4nq.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027644737554157574/pl/Pms5qIDnofdFScLs.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027644737562484737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOkJVkaIAE5kw7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027644737545805824",
+            "3_2027644737549955072",
+            "13_2027644737554157574",
+            "3_2027644737562484737"
+          ]
+        },
+        "author_id": "1385046676302229505",
+        "conversation_id": "2027644875051823346",
+        "created_at": "2026-02-28T07:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027644875051823346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "门槛"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "电子女友"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "反差"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "包养"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "肉腿"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "巨乳"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nd7dOb5Cxz",
+              "end": 136,
+              "expanded_url": "https://x.com/Leonard45932429/status/2027644875051823346/video/1",
+              "media_key": "3_2027644737545805824",
+              "start": 113,
+              "url": "https://t.co/nd7dOb5Cxz"
+            },
+            {
+              "display_url": "pic.x.com/nd7dOb5Cxz",
+              "end": 136,
+              "expanded_url": "https://x.com/Leonard45932429/status/2027644875051823346/video/1",
+              "media_key": "3_2027644737549955072",
+              "start": 113,
+              "url": "https://t.co/nd7dOb5Cxz"
+            },
+            {
+              "display_url": "pic.x.com/nd7dOb5Cxz",
+              "end": 136,
+              "expanded_url": "https://x.com/Leonard45932429/status/2027644875051823346/video/1",
+              "media_key": "13_2027644737554157574",
+              "start": 113,
+              "url": "https://t.co/nd7dOb5Cxz"
+            },
+            {
+              "display_url": "pic.x.com/nd7dOb5Cxz",
+              "end": 136,
+              "expanded_url": "https://x.com/Leonard45932429/status/2027644875051823346/video/1",
+              "media_key": "3_2027644737562484737",
+              "start": 113,
+              "url": "https://t.co/nd7dOb5Cxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027644875051823346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 87340,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "我是小夜\n已成年呆萌巨乳小狗一枚\n一个问题五块钱验证十块钱可以抵门槛\n可以给我钱吗我想吃吉野家萨莉亚达美乐好利来窑鸡王杀猪粉铜锅涮肉\n#门槛妹 #门槛 #爸爸活 #电子女友 #反差 #小狗日记 #包养 #肉腿 #巨乳 #女大 https://t.co/nd7dOb5Cxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 701,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1215
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T01:44:22.000Z",
+        "description": "互转限300粉以上つ♡⊂想关注我但不想给我钱的人不要来因为我每天都在愤怒辱骂这个群体🚪188rmb解锁我2024至今所有裸舞自慰脸逼奶同框视频照片包后续更新🩵原味不用过门直接私信购买🩵",
+        "id": "1385046676302229505",
+        "location": "不给我钱不要给我发信息谢谢",
+        "name": "老公玩3p不带我的那个雨夜",
+        "pinned_tweet_id": "2027644875051823346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016370869757411328/InTwTl0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2733,
+          "following_count": 72,
+          "like_count": 328,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 555
+        },
+        "username": "Leonard45932429",
+        "verified": false
+      }
+    ]
+  }
+}

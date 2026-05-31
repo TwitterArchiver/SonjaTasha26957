@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059585436759277712",
+    "created_at": "2026-05-28T06:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059890263951347851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1378764234100592645",
+          "start": 0,
+          "username": "Jonatha30905093"
+        },
+        {
+          "end": 28,
+          "id": "1829867271592026112",
+          "start": 17,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059890263951347851",
+    "in_reply_to_user_id": "1378764234100592645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059708166901039481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jonatha30905093 @Shivam3228 确实有的人蠢而不自知  不可否认这个叔叔出发点是好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059585436759277712",
+        "created_at": "2026-05-28T06:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059890263951347851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1378764234100592645",
+              "start": 0,
+              "username": "Jonatha30905093"
+            },
+            {
+              "end": 28,
+              "id": "1829867271592026112",
+              "start": 17,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059890263951347851",
+        "in_reply_to_user_id": "1378764234100592645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059708166901039481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jonatha30905093 @Shivam3228 确实有的人蠢而不自知  不可否认这个叔叔出发点是好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378764234100592645",
+        "conversation_id": "2059585436759277712",
+        "created_at": "2026-05-27T18:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059708166901039481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            },
+            {
+              "end": 28,
+              "id": "1829867271592026112",
+              "start": 17,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059708166901039481",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059591347422872044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 @Shivam3228 这话说的 又有哪个傻逼能认识到自己是傻逼呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 701,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1217
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T17:39:53.000Z",
+        "description": "",
+        "id": "1378764234100592645",
+        "location": "Singapore",
+        "name": "Raymond C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635724747467276289/5PPxbWhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 34,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 82
+        },
+        "username": "Jonatha30905093",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 145,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 82
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

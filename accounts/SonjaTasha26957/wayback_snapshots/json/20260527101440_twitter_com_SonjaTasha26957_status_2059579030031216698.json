@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059579030031216698",
+    "created_at": "2026-05-27T10:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059579030031216698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shivam3228/sta…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/shivam3228/status/2059572273582096435",
+          "start": 51,
+          "url": "https://t.co/34YfR87Lbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059579030031216698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059572273582096435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你鼓励支持她做小女孩了吗 儿子儿子的叫着  把责任都推给别人 自己一点责任也没有吗 ？我真的很无力了 https://t.co/34YfR87Lbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059572258138677248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUSDoOa4AAwtkp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059579030031216698",
+        "created_at": "2026-05-27T10:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059579030031216698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shivam3228/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/shivam3228/status/2059572273582096435",
+              "start": 51,
+              "url": "https://t.co/34YfR87Lbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059579030031216698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059572273582096435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你鼓励支持她做小女孩了吗 儿子儿子的叫着  把责任都推给别人 自己一点责任也没有吗 ？我真的很无力了 https://t.co/34YfR87Lbx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059572258138677248"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059572273582096435",
+        "created_at": "2026-05-27T09:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059572273582096435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGIDo0s0ob",
+              "end": 35,
+              "expanded_url": "https://x.com/Shivam3228/status/2059572273582096435/photo/1",
+              "media_key": "3_2059572258138677248",
+              "start": 12,
+              "url": "https://t.co/VGIDo0s0ob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059572273582096435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道她很痛苦她恨你们 https://t.co/VGIDo0s0ob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 690,
+          "like_count": 103,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1198
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 104,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 53
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

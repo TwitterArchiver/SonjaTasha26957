@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1757603703811371008",
+    "conversation_id": "2059446259824603616",
+    "created_at": "2026-05-27T04:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059484969651843517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059484969651843517",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059446259824603616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 才没有…我心疼星星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2059446259824603616",
+        "created_at": "2026-05-27T04:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059484969651843517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059484969651843517",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059446259824603616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 才没有…我心疼星星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043952988557803520",
+        "conversation_id": "2059446259824603616",
+        "created_at": "2026-05-27T01:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059446259824603616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059446259824603616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然大家都覺得我在假死博同情\n那我還管什麼“約定”呢\n只要我活著就永遠都是在博同情\n那我死一個不就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 684,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1172
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "我是星雫瑞星/互聯網的墮天使/白騎士綜合征/地雷/病弱/抖M/戀痛/生理雙性別/無性別主義者/互fo寻回中... \n\n主要遊玩prsk/推し💗宵崎奏、曉山瑞希、望月穗波、日野森志步/團體 推しLeoneed&25時/會進行一些相關角色的cosplay",
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "可不敢乱说",
+        "pinned_tweet_id": "2055320120755695896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 188,
+          "like_count": 4133,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 506
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}
