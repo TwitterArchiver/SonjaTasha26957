@@ -10,10 +10,11 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 26,
-        "start": 16,
+        "end": 12,
+        "start": 2,
         "username": "xiaoyi080"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg"
 }
